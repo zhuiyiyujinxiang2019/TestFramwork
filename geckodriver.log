@@ -1,0 +1,1557 @@
+1557115182803	geckodriver	INFO	Listening on 127.0.0.1:54240
+1557115184780	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.LiWmPSxzbagY
+1557115184787	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557115184895	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54247
+1557115187615	Marionette	INFO	Listening on port 54247
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557115253719	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557115298088	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557120004317	geckodriver	INFO	Listening on 127.0.0.1:54707
+1557120006297	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.NhUuRVV8OrXo
+1557120006304	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557120006480	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54714
+1557120008464	Marionette	INFO	Listening on port 54714
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557120179104	geckodriver	INFO	Listening on 127.0.0.1:54834
+1557120181128	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.HsX9NJgmwADf
+1557120181135	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557120181239	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54840
+1557120182797	Marionette	INFO	Listening on port 54840
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557120248789	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557120294829	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557121096647	geckodriver	INFO	Listening on 127.0.0.1:55031
+1557121098682	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.QT0IplF4fD3R
+1557121098689	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557121098797	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55038
+1557121100463	Marionette	INFO	Listening on port 55038
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557121152869	geckodriver	INFO	Listening on 127.0.0.1:55131
+1557121154908	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.DpJn5U4HD9rU
+1557121154915	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557121155068	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55137
+1557121156900	Marionette	INFO	Listening on port 55137
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557121222739	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557121267432	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557121539513	geckodriver	INFO	Listening on 127.0.0.1:55277
+1557121541547	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.vWEslueri0dW
+1557121541554	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557121541674	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55283
+1557121543509	Marionette	INFO	Listening on port 55283
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557121782550	geckodriver	INFO	Listening on 127.0.0.1:55420
+1557121784570	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.0z3aKuxdhASL
+1557121784576	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557121784626	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55426
+1557121786343	Marionette	INFO	Listening on port 55426
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557121853130	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557121897501	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557121945904	geckodriver	INFO	Listening on 127.0.0.1:55543
+1557121947954	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.1aqsGaRHb8qM
+1557121947962	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557121948094	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55550
+1557121949664	Marionette	INFO	Listening on port 55550
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557122378257	geckodriver	INFO	Listening on 127.0.0.1:55783
+1557122380295	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.cAZAKgHYjRDg
+1557122380300	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557122380345	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55789
+1557122382035	Marionette	INFO	Listening on port 55789
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557122448517	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557122493678	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557122747292	geckodriver	INFO	Listening on 127.0.0.1:55927
+1557122749351	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.ZSlJyXXVLy4a
+1557122749359	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557122749551	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55935
+1557122751301	Marionette	INFO	Listening on port 55935
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557122817944	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557122883982	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+22796216	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557122796341	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56028
+1557122798206	Marionette	INFO	Listening on port 56028
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557122886269	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557122932974	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557123364698	geckodriver	INFO	Listening on 127.0.0.1:56234
+1557123366733	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.jU0DpiFQ1jJC
+1557123366739	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557123366930	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56241
+1557123368685	Marionette	INFO	Listening on port 56241
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557123436147	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557123480958	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: this.browser.getBrowserForTab is not a function
+Full stack: BrowserObj.prototype.hasRemotenessChange@chrome://marionette/content/driver.js:3182:25
+BrowserObj.prototype.executeWhenReady@chrome://marionette/content/driver.js:3213:7
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:223:5
+send/<@chrome://marionette/content/proxy.js:138:7
+send@chrome://marionette/content/proxy.js:105:12
+ownPriorityGetterTrap.get/<@chrome://marionette/content/proxy.js:24:25
+GeckoDriver.prototype.findElement@chrome://marionette/content/driver.js:1878:31
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:388:16
+TaskImpl_run@resource://gre/modules/Task.jsm:327:13
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+Dispatcher.prototype.execute@chrome://marionette/content/dispatcher.js:120:13
+Dispatcher.prototype.onPacket@chrome://marionette/content/dispatcher.js:91:5
+DebuggerTransport.prototype._onJSONObjectReady/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:479:9
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: this.browser.getBrowserForTab is not a function
+Full stack: BrowserObj.prototype.hasRemotenessChange@chrome://marionette/content/driver.js:3182:25
+BrowserObj.prototype.executeWhenReady@chrome://marionette/content/driver.js:3213:7
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:223:5
+send/<@chrome://marionette/content/proxy.js:138:7
+send@chrome://marionette/content/proxy.js:105:12
+ownPriorityGetterTrap.get/<@chrome://marionette/content/proxy.js:24:25
+GeckoDriver.prototype.findElement@chrome://marionette/content/driver.js:1878:31
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:388:16
+TaskImpl_run@resource://gre/modules/Task.jsm:327:13
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+Dispatcher.prototype.execute@chrome://marionette/content/dispatcher.js:120:13
+Dispatcher.prototype.onPacket@chrome://marionette/content/dispatcher.js:91:5
+DebuggerTransport.prototype._onJSONObjectReady/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:479:9
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+
+*************************
+*************************
+A coding exception was thrown in a Promise rejection callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: this.browser.getBrowserForTab is not a function
+Full stack: BrowserObj.prototype.hasRemotenessChange@chrome://marionette/content/driver.js:3182:25
+BrowserObj.prototype.executeWhenReady@chrome://marionette/content/driver.js:3213:7
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:223:5
+send/<@chrome://marionette/content/proxy.js:138:7
+send@chrome://marionette/content/proxy.js:105:12
+ownPriorityGetterTrap.get/<@chrome://marionette/content/proxy.js:24:25
+GeckoDriver.prototype.findElement@chrome://marionette/content/driver.js:1878:31
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:388:16
+TaskImpl_run@resource://gre/modules/Task.jsm:327:13
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+Dispatcher.prototype.execute@chrome://marionette/content/dispatcher.js:120:13
+Dispatcher.prototype.onPacket@chrome://marionette/content/dispatcher.js:91:5
+DebuggerTransport.prototype._onJSONObjectReady/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:479:9
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+
+*************************
+Marionette threw an error: TypeError: this.browser.getBrowserForTab is not a function
+BrowserObj.prototype.hasRemotenessChange@chrome://marionette/content/driver.js:3182:25
+BrowserObj.prototype.executeWhenReady@chrome://marionette/content/driver.js:3213:7
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:223:5
+send/<@chrome://marionette/content/proxy.js:138:7
+send@chrome://marionette/content/proxy.js:105:12
+ownPriorityGetterTrap.get/<@chrome://marionette/content/proxy.js:24:25
+GeckoDriver.prototype.findElement@chrome://marionette/content/driver.js:1878:31
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:388:16
+TaskImpl_run@resource://gre/modules/Task.jsm:327:13
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+Dispatcher.prototype.execute@chrome://marionette/content/dispatcher.js:120:13
+Dispatcher.prototype.onPacket@chrome://marionette/content/dispatcher.js:91:5
+DebuggerTransport.prototype._onJSONObjectReady/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:479:9
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+
+1557123873346	geckodriver	INFO	Listening on 127.0.0.1:56527
+1557123875392	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.7RS1uaQHKObT
+1557123875398	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557123875459	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56534
+1557123877122	Marionette	INFO	Listening on port 56534
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557123967790	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557123992686	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557124140118	geckodriver	INFO	Listening on 127.0.0.1:56756
+1557124142136	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.bwpgbLQ41XQy
+1557124142141	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557124142278	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56762
+1557124143885	Marionette	INFO	Listening on port 56762
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557124230195	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557124250952	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557125371956	geckodriver	INFO	Listening on 127.0.0.1:57584
+1557125373997	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.le7i6URpB4uh
+1557125374005	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557125374155	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57591
+1557125375727	Marionette	INFO	Listening on port 57591
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557125442615	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557125490776	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557126572855	geckodriver	INFO	Listening on 127.0.0.1:58099
+1557126574822	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.vwBMmkpIRc4f
+1557126574828	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557126574988	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58106
+1557126577169	Marionette	INFO	Listening on port 58106
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557126643868	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557126688585	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557127056421	geckodriver	INFO	Listening on 127.0.0.1:58450
+1557127058469	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.0durHonJQIRN
+1557127058475	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557127058608	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58456
+1557127060436	Marionette	INFO	Listening on port 58456
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557127126781	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557127396367	geckodriver	INFO	Listening on 127.0.0.1:58682
+1557127398394	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.gR1eL8njx940
+1557127398401	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557127398458	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58688
+1557127399932	Marionette	INFO	Listening on port 58688
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557127466581	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557128473190	geckodriver	INFO	Listening on 127.0.0.1:59265
+1557128475153	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.o7yqGApfg0qA
+1557128475159	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557128475321	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59274
+1557128477056	Marionette	INFO	Listening on port 59274
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557128547558	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557128603475	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557128700555	geckodriver	INFO	Listening on 127.0.0.1:59570
+1557128702580	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.2CYuxpkyCzQe
+1557128702585	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557128702699	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59576
+1557128704426	Marionette	INFO	Listening on port 59576
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557128771646	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557128999415	geckodriver	INFO	Listening on 127.0.0.1:59874
+1557129001436	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.WpD2J12OZDEM
+1557129001441	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557129001556	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59880
+1557129003106	Marionette	INFO	Listening on port 59880
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557129070086	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557132693112	geckodriver	INFO	Listening on 127.0.0.1:51093
+1557132695150	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.9OhQSMuHgJcW
+1557132695152	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557132695312	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51100
+1557132697473	Marionette	INFO	Listening on port 51100
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557132764307	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557132810419	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.5dIiVDEpHZzu
+1557132788782	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557132788924	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51211
+1557132790944	Marionette	INFO	Listening on port 51211
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557132858305	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557132904060	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557132975788	geckodriver	INFO	Listening on 127.0.0.1:51357
+1557132977680	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.hOWtdHRYG83Q
+1557132977690	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557132977770	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51364
+1557132980100	Marionette	INFO	Listening on port 51364
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557133047901	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557133092317	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557133190595	geckodriver	INFO	Listening on 127.0.0.1:51502
+1557133192633	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.lOpD1sHAhDRJ
+1557133192643	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557133192683	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51508
+1557133194457	Marionette	INFO	Listening on port 51508
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557133261937	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557133307640	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+33237931	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557133237981	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51601
+1557133240097	Marionette	INFO	Listening on port 51601
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557133306648	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557133352672	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557134507346	geckodriver	INFO	Listening on 127.0.0.1:51916
+1557134509422	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.NjoLMjqGRZsc
+1557134509422	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557134509472	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51923
+1557134511623	Marionette	INFO	Listening on port 51923
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557134577781	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557134622081	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557134680985	geckodriver	INFO	Listening on 127.0.0.1:52057
+1557134683042	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.wNqCAGNHbFsP
+1557134683042	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557134683152	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52063
+1557134686131	Marionette	INFO	Listening on port 52063
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557134755122	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557135528461	geckodriver	INFO	Listening on 127.0.0.1:52564
+1557135531492	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.ZMSFOGXCEdzp
+1557135531502	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557135531542	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52572
+1557135533420	Marionette	INFO	Listening on port 52572
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557135599228	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557135928975	geckodriver	INFO	Listening on 127.0.0.1:52891
+1557135932047	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.Ct1DXMlEKgM5
+1557135932057	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557135932177	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52899
+1557135933703	Marionette	INFO	Listening on port 52899
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557136000959	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557136045238	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557136280820	geckodriver	INFO	Listening on 127.0.0.1:53232
+1557136283904	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.JIG6k4tF8icK
+1557136283914	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557136284034	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53242
+1557136285958	Marionette	INFO	Listening on port 53242
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557136352756	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557136397391	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557136879112	geckodriver	INFO	Listening on 127.0.0.1:53626
+1557136882038	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.mbrMhGW96Twg
+1557136882038	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557136882138	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53636
+1557136884193	Marionette	INFO	Listening on port 53636
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557137004540	geckodriver	INFO	Listening on 127.0.0.1:53831
+1557137007572	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.wEP2t1qG6xhm
+1557137007572	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557137007682	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53839
+1557137009814	Marionette	INFO	Listening on port 53839
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557137116633	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557137161106	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557193283619	geckodriver	INFO	Listening on 127.0.0.1:59717
+1557193286644	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.xfOKL9hn8icQ
+1557193286653	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557193286784	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59726
+1557193289534	Marionette	INFO	Listening on port 59726
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557193356718	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557193400915	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557193785420	geckodriver	INFO	Listening on 127.0.0.1:60260
+1557193788447	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.RoGua1emjUXz
+1557193788453	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557193788573	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60268
+1557193791725	Marionette	INFO	Listening on port 60268
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557193859193	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557194652256	geckodriver	INFO	Listening on 127.0.0.1:60829
+1557194655330	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.2slYS89kzUKZ
+1557194655336	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557194655440	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60837
+1557194657195	Marionette	INFO	Listening on port 60837
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557194724875	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557194742003	geckodriver	INFO	Listening on 127.0.0.1:61125
+1557194745059	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.BtwdkWQ2ppAH
+1557194745065	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557194745166	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61133
+1557194746917	Marionette	INFO	Listening on port 61133
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557194813801	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557195082944	geckodriver	INFO	Listening on 127.0.0.1:61383
+1557195085995	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.YAOYqlQt5wDD
+1557195086000	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557195086043	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61392
+1557195087860	Marionette	INFO	Listening on port 61392
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557195154836	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557195199093	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557195281230	geckodriver	INFO	Listening on 127.0.0.1:61651
+1557195284283	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.OYIm5XpJcQYG
+1557195284288	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557195284398	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61660
+1557195286013	Marionette	INFO	Listening on port 61660
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557195352112	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557195396204	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557195470315	geckodriver	INFO	Listening on 127.0.0.1:61983
+1557195473334	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.AX8U8MG5QvGV
+1557195473340	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557195473456	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61991
+1557195475067	Marionette	INFO	Listening on port 61991
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557195541564	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557195585913	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557195669906	geckodriver	INFO	Listening on 127.0.0.1:62326
+1557195672957	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.yJlqOOqAcSWn
+1557195672963	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557195673062	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62334
+1557195675066	Marionette	INFO	Listening on port 62334
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557195741154	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557195881533	geckodriver	INFO	Listening on 127.0.0.1:62567
+1557195884578	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.D9u4e9bpes6A
+1557195884583	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557195884626	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62575
+1557195886175	Marionette	INFO	Listening on port 62575
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557195953441	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557196101347	geckodriver	INFO	Listening on 127.0.0.1:62816
+1557196104378	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.CFuivb9c5POV
+1557196104384	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557196104482	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62824
+1557196106049	Marionette	INFO	Listening on port 62824
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557196172739	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557196217136	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and1557196302710	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.Cp4Ydfr1Es7O
+1557196302719	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557196302874	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63250
+1557196304993	Marionette	INFO	Listening on port 63250
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557196370668	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557196414866	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+ce://gre/modules/Task.jsm:388:16
+TaskImpl_run@resource://gre/modules/Task.jsm:327:13
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+Dispatcher.prototype.execute@chrome://marionette/content/dispatcher.js:120:13
+Dispatcher.prototype.onPacket@chrome://marionette/content/dispatcher.js:91:5
+DebuggerTransport.prototype._onJSONObjectReady/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:479:9
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: this.browser.getBrowserForTab is not a function
+Full stack: BrowserObj.prototype.hasRemotenessChange@chrome://marionette/content/driver.js:3182:25
+BrowserObj.prototype.executeWhenReady@chrome://marionette/content/driver.js:3213:7
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:223:5
+send/<@chrome://marionette/content/proxy.js:138:7
+send@chrome://marionette/content/proxy.js:105:12
+ownPriorityGetterTrap.get/<@chrome://marionette/content/proxy.js:24:25
+GeckoDriver.prototype.findElement@chrome://marionette/content/driver.js:1878:31
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:388:16
+TaskImpl_run@resource://gre/modules/Task.jsm:327:13
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+Dispatcher.prototype.execute@chrome://marionette/content/dispatcher.js:120:13
+Dispatcher.prototype.onPacket@chrome://marionette/content/dispatcher.js:91:5
+DebuggerTransport.prototype._onJSONObjectReady/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:479:9
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+
+*************************
+*************************
+A coding exception was thrown in a Promise rejection callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: this.browser.getBrowserForTab is not a function
+Full stack: BrowserObj.prototype.hasRemotenessChange@chrome://marionette/content/driver.js:3182:25
+BrowserObj.prototype.executeWhenReady@chrome://marionette/content/driver.js:3213:7
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:223:5
+send/<@chrome://marionette/content/proxy.js:138:7
+send@chrome://marionette/content/proxy.js:105:12
+ownPriorityGetterTrap.get/<@chrome://marionette/content/proxy.js:24:25
+GeckoDriver.prototype.findElement@chrome://marionette/content/driver.js:1878:31
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:388:16
+TaskImpl_run@resource://gre/modules/Task.jsm:327:13
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+Dispatcher.prototype.execute@chrome://marionette/content/dispatcher.js:120:13
+Dispatcher.prototype.onPacket@chrome://marionette/content/dispatcher.js:91:5
+DebuggerTransport.prototype._onJSONObjectReady/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:479:9
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+
+*************************
+Marionette threw an error: TypeError: this.browser.getBrowserForTab is not a function
+BrowserObj.prototype.hasRemotenessChange@chrome://marionette/content/driver.js:3182:25
+BrowserObj.prototype.executeWhenReady@chrome://marionette/content/driver.js:3213:7
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:223:5
+send/<@chrome://marionette/content/proxy.js:138:7
+send@chrome://marionette/content/proxy.js:105:12
+ownPriorityGetterTrap.get/<@chrome://marionette/content/proxy.js:24:25
+GeckoDriver.prototype.findElement@chrome://marionette/content/driver.js:1878:31
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:388:16
+TaskImpl_run@resource://gre/modules/Task.jsm:327:13
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+Dispatcher.prototype.execute@chrome://marionette/content/dispatcher.js:120:13
+Dispatcher.prototype.onPacket@chrome://marionette/content/dispatcher.js:91:5
+DebuggerTransport.prototype._onJSONObjectReady/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:479:9
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+
+1557207312053	geckodriver	INFO	Listening on 127.0.0.1:49244
+1557207315110	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.vHCwekIUHkQo
+1557207315110	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557207315220	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49253
+1557207317235	Marionette	INFO	Listening on port 49253
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557207384017	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557207430230	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://gre/components/nsUpdateService.1557207678528	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.fdnSB8W9VmJQ
+1557207678538	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557207678700	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49640
+1557207681287	Marionette	INFO	Listening on port 49640
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557207749475	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557207793933	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557207807182	geckodriver	INFO	Listening on 127.0.0.1:49885
+1557207810225	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.sk3EYS2tHw5a
+1557207810225	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557207810275	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49895
+1557207812364	Marionette	INFO	Listening on port 49895
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557207879667	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557207924625	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+rust_mozprofile.SHVx0apsFPEV
+1557208010649	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557208010689	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50156
+1557208012816	Marionette	INFO	Listening on port 50156
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557208082909	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557208127718	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557208688705	geckodriver	INFO	Listening on 127.0.0.1:53340
+1557208691748	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.M4s6iebqhl6Q
+1557208691758	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557208691868	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53348
+1557208693759	Marionette	INFO	Listening on port 53348
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557208761905	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557208806778	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557212650172	geckodriver	INFO	Listening on 127.0.0.1:51343
+1557276982884	geckodriver	INFO	Listening on 127.0.0.1:61429
+1557276985913	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.GNLQZDxHRGoR
+1557276985919	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557276986019	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61441
+1557276988444	Marionette	INFO	Listening on port 61441
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557277056643	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557277100726	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557277171531	geckodriver	INFO	Listening on 127.0.0.1:61783
+1557277174555	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.9ilPehHxwI3y
+1557277174561	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557277174672	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61792
+1557277177046	Marionette	INFO	Listening on port 61792
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557277243386	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557277308694	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557277545506	geckodriver	INFO	Listening on 127.0.0.1:62122
+1557277548552	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.lscpgSPxrRrY
+1557277548560	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557277548610	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62130
+1557277550222	Marionette	INFO	Listening on port 62130
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557277616345	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557277660521	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557278048887	geckodriver	INFO	Listening on 127.0.0.1:62573
+1557278052028	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.kHqLgzoV1SwB
+1557278052035	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557278052183	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62583
+1557278054122	Marionette	INFO	Listening on port 62583
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557278120837	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557278165028	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557278502944	geckodriver	INFO	Listening on 127.0.0.1:63015
+1557278505969	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.HByMLTWnthJX
+1557278505976	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557278506088	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63025
+1557278507994	Marionette	INFO	Listening on port 63025
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557278573919	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557278618193	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557280726895	geckodriver	INFO	Listening on 127.0.0.1:64030
+1557280729922	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.pStOMZLXKx0c
+1557280729929	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557280730046	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64041
+1557280732824	Marionette	INFO	Listening on port 64041
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557280798899	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557280843191	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557281184025	geckodriver	INFO	Listening on 127.0.0.1:64410
+1557281187080	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.ARUPYj1552rU
+1557281187085	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557281187195	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64421
+1557281188757	Marionette	INFO	Listening on port 64421
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557281255003	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557281299233	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557284804951	geckodriver	INFO	Listening on 127.0.0.1:49476
+1557284807981	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.5fxZQTbofgBZ
+1557284807987	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557284808162	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49487
+1557284809712	Marionette	INFO	Listening on port 49487
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557284876146	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557284920304	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557284949052	geckodriver	INFO	Listening on 127.0.0.1:49674
+1557284952070	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.SFXvu9wjmzCU
+1557284952075	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557284952226	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49684
+1557284953740	Marionette	INFO	Listening on port 49684
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557285020369	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557285144648	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557285650101	geckodriver	INFO	Listening on 127.0.0.1:50104
+1557285653143	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.LmGuYPxmEZyv
+1557285653148	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557285653191	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50114
+1557285654827	Marionette	INFO	Listening on port 50114
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557285720914	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557285766380	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557285799443	geckodriver	INFO	Listening on 127.0.0.1:50312
+1557285802438	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.MPlG7LNG0Fzq
+1557285802443	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557285802596	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50320
+1557285804544	Marionette	INFO	Listening on port 50320
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557285870126	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557285935495	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557286700497	geckodriver	INFO	Listening on 127.0.0.1:50796
+1557286703522	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.1yP6GoFljyTM
+1557286703528	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557286703696	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50805
+1557286705383	Marionette	INFO	Listening on port 50805
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557286771441	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557286815743	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557286823765	geckodriver	INFO	Listening on 127.0.0.1:51106
+1557286826804	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.C7B2E7nEMuot
+1557286826809	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557286826976	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51116
+1557286828556	Marionette	INFO	Listening on port 51116
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557286936138	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557286980644	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557287960283	geckodriver	INFO	Listening on 127.0.0.1:51787
+1557287963321	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.HCf3r3J6Vw4p
+1557287963327	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557287963457	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51795
+1557287965770	Marionette	INFO	Listening on port 51795
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557288072643	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557288117115	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.zuQQqpzX6Svi
+1557288092646	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557288092798	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52077
+1557288094544	Marionette	INFO	Listening on port 52077
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557288222528	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557288266878	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557293065795	geckodriver	INFO	Listening on 127.0.0.1:54383
+1557293068974	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.xkM4HLFCsHJJ
+1557293068993	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557293069274	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54393
+1557293072119	Marionette	INFO	Listening on port 54393
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557293127288	geckodriver	INFO	Listening on 127.0.0.1:54555
+1557293130336	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.hsZsfx9196sg
+1557293130346	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557293130523	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54563
+1557293132442	Marionette	INFO	Listening on port 54563
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557293239458	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557293307485	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.YOn0E91ftGAs
+1557293260412	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557293260639	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54822
+1557293262706	Marionette	INFO	Listening on port 54822
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557293368979	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557293413932	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557293415866	geckodriver	INFO	Listening on 127.0.0.1:55030
+1557293418908	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.sGZWHWLxRbwh
+1557293418918	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557293419074	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55040
+1557293420962	Marionette	INFO	Listening on port 55040
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557293487990	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557293619863	geckodriver	INFO	Listening on 127.0.0.1:55336
+1557293622907	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.qh6aLnOFuW60
+1557293622912	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557293622960	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55346
+1557293624860	Marionette	INFO	Listening on port 55346
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557293691628	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557293736097	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557294149708	geckodriver	INFO	Listening on 127.0.0.1:55736
+1557294152758	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.BXTpWjlKzMFj
+1557294152763	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557294152906	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55745
+1557294155723	Marionette	INFO	Listening on port 55745
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557294262755	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557294309910	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557294939660	geckodriver	INFO	Listening on 127.0.0.1:56239
+1557294942674	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.ulbGKaFtpZ1I
+1557294942680	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557294942802	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56249
+1557294944762	Marionette	INFO	Listening on port 56249
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557295094523	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557295139319	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557295244163	geckodriver	INFO	Listening on 127.0.0.1:56582
+1557295247210	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.Y9KqR7E3KxMi
+1557295247217	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557295247313	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56592
+1557295248907	Marionette	INFO	Listening on port 56592
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557295376637	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557295421295	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557297274328	geckodriver	INFO	Listening on 127.0.0.1:57584
+1557297277366	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.GWam6U5fSffr
+1557297277371	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557297277486	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57595
+1557297279352	Marionette	INFO	Listening on port 57595
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557297407739	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557297452186	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557298144402	geckodriver	INFO	Listening on 127.0.0.1:58222
+1557298147441	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.lp6rraMkKSZe
+1557298147446	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557298147560	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58231
+1557298149475	Marionette	INFO	Listening on port 58231
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557298257058	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557298302037	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.052efqSfGDfy
+1557298272957	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557298273068	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58523
+1557298275031	Marionette	INFO	Listening on port 58523
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557298383616	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557298407381	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557298709051	geckodriver	INFO	Listening on 127.0.0.1:58840
+1557298712076	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.ECV3t41W6F0a
+1557298712086	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557298712130	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58848
+1557298713768	Marionette	INFO	Listening on port 58848
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557298821647	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557298867523	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.0u1pKw67jBSI
+1557298832815	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557298832920	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59135
+1557298834587	Marionette	INFO	Listening on port 59135
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557298900351	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557299020288	geckodriver	INFO	Listening on 127.0.0.1:59421
+1557299023308	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.ahvaQZnzli5W
+1557299023314	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557299023419	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59430
+1557299025050	Marionette	INFO	Listening on port 59430
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557299091023	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557299135588	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557299142122	geckodriver	INFO	Listening on 127.0.0.1:59679
+1557299145185	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.SRhyGdrABMn0
+1557299145191	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557299145241	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59690
+1557299146929	Marionette	INFO	Listening on port 59690
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557299213418	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557299253351	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557300503497	geckodriver	INFO	Listening on 127.0.0.1:60436
+1557300506541	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.LXEgfgjwg64v
+1557300506548	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557300506671	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60444
+1557300508440	Marionette	INFO	Listening on port 60444
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557300575206	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557300620009	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557300932903	geckodriver	INFO	Listening on 127.0.0.1:60786
+1557300935941	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.9eQP1S5gebBw
+1557300935947	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557300936074	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60795
+1557300937979	Marionette	INFO	Listening on port 60795
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557301003778	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557301053371	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557301462322	geckodriver	INFO	Listening on 127.0.0.1:61187
+1557301465326	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.DXTzQu7zXOYQ
+1557301465332	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557301465440	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61198
+1557301467237	Marionette	INFO	Listening on port 61198
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557301534132	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557301578783	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557301694875	geckodriver	INFO	Listening on 127.0.0.1:61469
+1557301697908	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.mxosqIWzvLzh
+1557301697913	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557301698041	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61479
+1557301699599	Marionette	INFO	Listening on port 61479
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557301766541	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557301859970	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+rust_mozprofile.1tYFG5BgCUSz
+1557301919618	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557301919664	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61766
+1557301921214	Marionette	INFO	Listening on port 61766
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557301987544	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557302004029	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557305954480	geckodriver	INFO	Listening on 127.0.0.1:63733
+1557305957533	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.kaUXBTNMYRfw
+1557305957539	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557305957629	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63743
+1557305959202	Marionette	INFO	Listening on port 63743
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557306026182	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557306071706	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557306126492	geckodriver	INFO	Listening on 127.0.0.1:63949
+1557306129554	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.teU985eenrJy
+1557306129560	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557306129729	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63957
+1557306131376	Marionette	INFO	Listening on port 63957
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557306197552	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557306242760	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557306840004	geckodriver	INFO	Listening on 127.0.0.1:64360
+1557306843030	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.Lo6ltvO1AAsO
+1557306843036	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557306843145	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64368
+1557306844953	Marionette	INFO	Listening on port 64368
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557306911043	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557306955576	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557307243850	geckodriver	INFO	Listening on 127.0.0.1:64739
+1557307246878	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.avhf1MkfwCyL
+1557307246884	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557307247024	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64748
+1557307248605	Marionette	INFO	Listening on port 64748
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557307315476	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557307360054	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557308845149	geckodriver	INFO	Listening on 127.0.0.1:49241
+1557308848207	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.tdUv7Kswu7Pg
+1557308848213	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557308848334	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49252
+1557308850122	Marionette	INFO	Listening on port 49252
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557308916032	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557308961493	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557309345659	geckodriver	INFO	Listening on 127.0.0.1:49786
+1557309348743	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.k4IfGwcbEJJL
+1557309348748	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557309348851	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49794
+1557309350367	Marionette	INFO	Listening on port 49794
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557309417149	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557309612644	geckodriver	INFO	Listening on 127.0.0.1:50138
+1557309615720	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.QmoxHbh55oyZ
+1557309615725	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557309615844	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50147
+1557309617519	Marionette	INFO	Listening on port 50147
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+1557309683965	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557309730827	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557309977562	geckodriver	INFO	Listening on 127.0.0.1:50452
+1557309980595	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.Zcdh24zihdXA
+1557309980602	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557309980704	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50460
+1557309982242	Marionette	INFO	Listening on port 50460
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+1557310048597	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557381866641	geckodriver	INFO	Listening on 127.0.0.1:50637
+1557381869535	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.06PtGeprKg7S
+1557381869540	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557381869743	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50647
+1557381872206	Marionette	INFO	Listening on port 50647
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557381939779	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557381984315	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557382349588	geckodriver	INFO	Listening on 127.0.0.1:51042
+1557382352634	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.OqqxJnU2LPP2
+1557382352639	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557382352753	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51054
+1557382354449	Marionette	INFO	Listening on port 51054
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557382422027	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557382467262	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557382630228	geckodriver	INFO	Listening on 127.0.0.1:51212
+1557382633249	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.EOUB0gN86LyO
+1557382633255	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557382633358	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51220
+1557382635306	Marionette	INFO	Listening on port 51220
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+1557382701521	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557382746078	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557386126027	geckodriver	INFO	Listening on 127.0.0.1:52400
+1557386129084	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.yBLkpg9k3s0x
+1557386129092	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557386129274	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52409
+1557386131204	Marionette	INFO	Listening on port 52409
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+1557386199538	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557386244059	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557387000688	geckodriver	INFO	Listening on 127.0.0.1:52744
+1557387003773	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.LiAdb6B7vDdy
+1557387003779	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557387003876	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52756
+1557387005626	Marionette	INFO	Listening on port 52756
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557387074811	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+1557387158968	geckodriver	INFO	Listening on 127.0.0.1:52906
+1557387162018	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.TBld1v225mBO
+1557387162025	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557387162180	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52914
+1557387163622	Marionette	INFO	Listening on port 52914
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+1557387229852	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557387298904	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557391995936	geckodriver	INFO	Listening on 127.0.0.1:54197
+1557391998991	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.gISfcpPAA2pS
+1557391998998	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557391999103	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54206
+1557392000957	Marionette	INFO	Listening on port 54206
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557392067343	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557392112111	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557392227316	geckodriver	INFO	Listening on 127.0.0.1:54381
+1557392230416	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.eFFjsUXqVUur
+1557392230424	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557392230550	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54389
+1557392232702	Marionette	INFO	Listening on port 54389
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557392299884	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557392345021	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557392482022	geckodriver	INFO	Listening on 127.0.0.1:54541
+1557392485043	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.Zij3rJoGH7Ax
+1557392485050	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557392485101	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54549
+1557392486812	Marionette	INFO	Listening on port 54549
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557392569590	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1557392914296	geckodriver	INFO	Listening on 127.0.0.1:54791
+1557392917379	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.rWmUWOAsPAeL
+1557392917385	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557392917506	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54799
+1557392919142	Marionette	INFO	Listening on port 54799
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+1557392986134	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+1557393034083	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557393060091	geckodriver	INFO	Listening on 127.0.0.1:55036
+1557393063149	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.Gubc01esSrYX
+1557393063158	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557393063283	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55044
+1557393065127	Marionette	INFO	Listening on port 55044
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557393371105	geckodriver	INFO	Listening on 127.0.0.1:55231
+1557393374196	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.prvWmUlM9tnN
+1557393374206	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557393374330	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55239
+1557393375894	Marionette	INFO	Listening on port 55239
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+1557393442786	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+1557393487326	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+1557393799040	geckodriver	INFO	Listening on 127.0.0.1:55586
+1557393802126	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.ejD3usUfRgip
+1557393802134	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557393802257	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55595
+1557393804082	Marionette	INFO	Listening on port 55595
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+1557393871174	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+1557393915762	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557393997722	geckodriver	INFO	Listening on 127.0.0.1:55789
+1557394000795	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.wHx3PsaJprbM
+1557394000802	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557394000971	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55797
+1557394002646	Marionette	INFO	Listening on port 55797
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557394069640	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557394116211	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557394269469	geckodriver	INFO	Listening on 127.0.0.1:56053
+1557394272546	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.2Q9VuuTxlP4w
+1557394272552	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557394272605	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56061
+1557394274292	Marionette	INFO	Listening on port 56061
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557394340131	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557394386656	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557394435330	geckodriver	INFO	Listening on 127.0.0.1:56226
+1557394438369	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.gR6BXeDxl4mY
+1557394438380	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557394438564	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56234
+1557394440327	Marionette	INFO	Listening on port 56234
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557394506660	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557394579705	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557394593329	geckodriver	INFO	Listening on 127.0.0.1:56383
+1557394596388	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.SrQV24PZekEB
+1557394596396	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557394596522	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56391
+1557394605719	geckodriver	INFO	Listening on 127.0.0.1:56396
+1557394608785	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.AN7KExeJQNPY
+1557394608789	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557394608831	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56405
+1557394610541	Marionette	INFO	Listening on port 56405
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557394676655	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557394722409	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557394802742	geckodriver	INFO	Listening on 127.0.0.1:56613
+1557394805774	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.sRMyYBr43Ndk
+1557394805781	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557394805828	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56622
+1557394807541	Marionette	INFO	Listening on port 56622
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557394874604	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557394922042	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557395193258	geckodriver	INFO	Listening on 127.0.0.1:56843
+1557395196346	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.5QU7ngx33KGu
+1557395196352	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557395196403	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56851
+1557395198744	Marionette	INFO	Listening on port 56851
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557395264712	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557395309162	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557395369827	geckodriver	INFO	Listening on 127.0.0.1:56995
+1557395372897	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.SHEKDdj4RwoT
+1557395372905	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557395373024	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57003
+1557395374958	Marionette	INFO	Listening on port 57003
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://testopenapi.tonelink.com/tonelink-open-modules/js/order/accessPage.js, line 141: unreachable code after return statement
+JavaScript warning: https://testopenapi.tonelink.com/tonelink-open-modules/js/order/accessPage.js, line 141: unreachable code after return statement
+1557395486775	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557395540520	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557395699672	geckodriver	INFO	Listening on 127.0.0.1:57201
+1557395702731	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.YRFYKT6UWKah
+1557395702737	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557395702787	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57210
+1557395705234	Marionette	INFO	Listening on port 57210
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557395772032	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557395817262	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557395918212	geckodriver	INFO	Listening on 127.0.0.1:57550
+1557395921201	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.3gZAQs4yZy7a
+1557395921208	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557395921346	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57558
+1557395923234	Marionette	INFO	Listening on port 57558
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557395989905	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557396056998	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557396207863	geckodriver	INFO	Listening on 127.0.0.1:57894
+1557396210893	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.32jKo5wkVv4e
+1557396210902	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557396211029	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57902
+1557396212698	Marionette	INFO	Listening on port 57902
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557396278630	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557396322822	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557450555197	geckodriver	INFO	Listening on 127.0.0.1:50212
+1557450558192	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.7Of41ympaDIA
+1557450558192	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557450558333	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50222
+1557450561580	Marionette	INFO	Listening on port 50222
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557450629704	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557450675261	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557450698427	geckodriver	INFO	Listening on 127.0.0.1:50460
+1557450701391	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.H0wlgHzaMu0U
+1557450701391	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557450701515	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50468
+1557450704280	Marionette	INFO	Listening on port 50468
+1557451502252	geckodriver	INFO	Listening on 127.0.0.1:50714
+1557451505468	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.AaJMse9WIlHv
+1557451505474	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557451505544	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50722
+1557451507741	Marionette	INFO	Listening on port 50722
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557451614951	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557451680087	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557451689324	geckodriver	INFO	Listening on 127.0.0.1:51036
+1557451692368	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.MJWg4c26NBMp
+1557451692375	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557451692477	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51044
+1557451694137	Marionette	INFO	Listening on port 51044
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557451762037	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557451806285	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557453438140	geckodriver	INFO	Listening on 127.0.0.1:51696
+1557453441124	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.P2QHSPizi4Zw
+1557453441131	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557453441273	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51707
+1557453442913	Marionette	INFO	Listening on port 51707
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557453550411	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557453594562	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.5jRytdtylxku
+1557453559220	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557453559321	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51920
+1557453560903	Marionette	INFO	Listening on port 51920
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557453626211	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557453670355	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557454021816	geckodriver	INFO	Listening on 127.0.0.1:52173
+1557454024911	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.wyIdTto5J7qh
+1557454024920	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557454024962	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52181
+1557454026626	Marionette	INFO	Listening on port 52181
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557454094222	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557454138298	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557454150545	geckodriver	INFO	Listening on 127.0.0.1:52426
+1557454153575	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.8FTvKLx96PQP
+1557454153581	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557454153686	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52434
+1557454155461	Marionette	INFO	Listening on port 52434
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557454221146	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557454286250	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557454726396	geckodriver	INFO	Listening on 127.0.0.1:52759
+1557454729476	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.uGBFBqknASzY
+1557454729483	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557454729614	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52767
+1557454731189	Marionette	INFO	Listening on port 52767
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557454798574	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557454842789	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557454920584	geckodriver	INFO	Listening on 127.0.0.1:53050
+1557454923589	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.hZ8B0wRYSS3S
+1557454923595	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557454923702	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53061
+1557454925161	Marionette	INFO	Listening on port 53061
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557455031621	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557455075806	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557455130745	geckodriver	INFO	Listening on 127.0.0.1:53292
+1557455133826	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.4r9oeJV6Uzu5
+1557455133832	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557455133939	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53301
+1557455135659	Marionette	INFO	Listening on port 53301
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557455242432	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557455288252	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557455323344	geckodriver	INFO	Listening on 127.0.0.1:53588
+1557455326357	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.jBgmaWgAAINm
+1557455326363	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557455326406	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53597
+1557455328062	Marionette	INFO	Listening on port 53597
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557455462139	geckodriver	INFO	Listening on 127.0.0.1:53743
+1557455465222	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.VMeox1NI9AEO
+1557455465228	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557455465355	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53751
+1557455467068	Marionette	INFO	Listening on port 53751
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557455553698	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557455598052	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557455815678	geckodriver	INFO	Listening on 127.0.0.1:54010
+1557455818730	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.SpXUCO4g6v7z
+1557455818738	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557455818838	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54018
+1557455821475	Marionette	INFO	Listening on port 54018
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+1557455888680	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+1557455933114	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557456147963	geckodriver	INFO	Listening on 127.0.0.1:54269
+1557456151032	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.P47BytDMjKPd
+1557456151038	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557456151140	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54278
+1557456152930	Marionette	INFO	Listening on port 54278
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557456219512	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557456263713	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557456387400	geckodriver	INFO	Listening on 127.0.0.1:54598
+1557456390443	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.wGUzvu9oipft
+1557456390449	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557456390555	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54609
+1557456392264	Marionette	INFO	Listening on port 54609
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557456460098	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557456504810	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557456597330	geckodriver	INFO	Listening on 127.0.0.1:54811
+1557456600386	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.KSKoDq9vkmGR
+1557456600392	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557456600434	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54819
+1557456602351	Marionette	INFO	Listening on port 54819
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557456668755	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript warning: https://testopenapi.tonelink.com/tonelink-open-modules/js/order/accessPage.js, line 141: unreachable code after return statement
+JavaScript warning: https://testopenapi.tonelink.com/tonelink-open-modules/js/order/accessPage.js, line 141: unreachable code after return statement
+1557456734022	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557457379167	geckodriver	INFO	Listening on 127.0.0.1:55476
+1557457382246	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.nDH0qXxl4EP1
+1557457382252	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557457382382	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55485
+1557457384356	Marionette	INFO	Listening on port 55485
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557457449823	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557457494227	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557457498151	geckodriver	INFO	Listening on 127.0.0.1:55698
+1557457501199	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.GsRYRT5BsB6U
+1557457501208	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557457501334	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55706
+1557457502864	Marionette	INFO	Listening on port 55706
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557457568734	addons.productaddons	WARN	Failed downloading v1557457568966	mozprofile::profile	1557457612848	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+57568974	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557457569023	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55857
+1557457571175	Marionette	INFO	Listening on port 55857
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+1557457637408	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+JavaScript warning: http://test.b2b.tonelink.com/web/js/myc/contract/contractEmployeer.js, line 889: unreachable code after return statement
+1557457682202	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557457687336	geckodriver	INFO	Listening on 127.0.0.1:56056
+1557457690365	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.huQFkb70jmFL
+1557457690371	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557457690413	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56064
+1557457692925	Marionette	INFO	Listening on port 56064
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557457760573	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557457805017	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.QFEkTPCzr1sQ
+1557457784710	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557457784762	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56249
+1557457786704	Marionette	INFO	Listening on port 56249
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557457853012	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript warning: https://testopenapi.tonelink.com/tonelink-open-modules/js/order/accessPage.js, line 141: unreachable code after return statement
+JavaScript warning: https://testopenapi.tonelink.com/tonelink-open-modules/js/order/accessPage.js, line 141: unreachable code after return statement
+1557457898396	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557458673687	geckodriver	INFO	Listening on 127.0.0.1:56743
+1557458676786	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.8sR7RO7aGjZL
+1557458676795	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557458676838	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56752
+1557458679118	Marionette	INFO	Listening on port 56752
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557458745375	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557458790058	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557458793999	geckodriver	INFO	Listening on 127.0.0.1:56955
+1557458797058	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.2fbmcrp8FD94
+1557458797063	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557458797166	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56964
+1557458798961	Marionette	INFO	Listening on port 56964
+1557458944598	geckodriver	INFO	Listening on 127.0.0.1:57046
+1557458947713	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.OOQLydzPKCvq
+1557458947720	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557458947757	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57056
+1557458949460	Marionette	INFO	Listening on port 57056
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557459015694	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557459059886	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557459065615	geckodriver	INFO	Listening on 127.0.0.1:57265
+1557459068695	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.7SM0vdsbhjXv
+1557459068701	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557459068742	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57273
+1557459070422	Marionette	INFO	Listening on port 57273
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557459898579	geckodriver	INFO	Listening on 127.0.0.1:57647
+1557459901561	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.ohThlS7CViZu
+1557459901572	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557459901646	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57658
+1557459904244	Marionette	INFO	Listening on port 57658
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557459972164	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557460016532	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557460022871	geckodriver	INFO	Listening on 127.0.0.1:57897
+1557460025888	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.dRndwh7IOnyv
+1557460025900	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557460026092	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57906
+1557460028596	Marionette	INFO	Listening on port 57906
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557463040118	geckodriver	INFO	Listening on 127.0.0.1:58759
+1557463043113	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.IYE5SlILgpoq
+1557463043121	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557463043163	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58772
+1557463045000	Marionette	INFO	Listening on port 58772
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557463111195	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557463155404	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557463157966	geckodriver	INFO	Listening on 127.0.0.1:58988
+1557463161011	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.zzyfhF0z7mTg
+1557463161017	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557463161143	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58996
+1557463162892	Marionette	INFO	Listening on port 58996
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557466209019	geckodriver	INFO	Listening on 127.0.0.1:60045
+1557466212097	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.RXfLQlvgGyO0
+1557466212104	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557466212208	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60055
+1557466213809	Marionette	INFO	Listening on port 60055
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557466281924	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557466448543	geckodriver	INFO	Listening on 127.0.0.1:60323
+1557466451610	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.ct1JB3g6SCd1
+1557466451617	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557466451725	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60334
+1557466453489	Marionette	INFO	Listening on port 60334
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557466542683	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557466586984	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.RFaWtg7IWSUj
+1557466573021	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557466573074	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60586
+1557466574690	Marionette	INFO	Listening on port 60586
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557466646587	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557466691231	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557471492570	geckodriver	INFO	Listening on 127.0.0.1:62089
+1557471495561	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.FDIUOZfG1RPD
+1557471495570	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557471495615	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62103
+1557471497893	Marionette	INFO	Listening on port 62103
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557471967819	geckodriver	INFO	Listening on 127.0.0.1:62381
+1557471970888	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.wE4WNNoDlsXK
+1557471970894	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557471970987	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62390
+1557471972766	Marionette	INFO	Listening on port 62390
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557472079672	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557472124662	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.K7RUUWc4Xlqg
+1557472093855	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557472093967	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62620
+1557472095529	Marionette	INFO	Listening on port 62620
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557472203765	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557472248215	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557473668319	geckodriver	INFO	Listening on 127.0.0.1:63314
+1557473671366	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.w6xughUdqo4d
+1557473671372	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557473672101	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63332
+1557473674542	Marionette	INFO	Listening on port 63332
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557473740437	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557473785004	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557473789051	geckodriver	INFO	Listening on 127.0.0.1:63551
+1557473792108	mozprofile::profile	INFO	Using profile path C:\Users\ppliang\AppData\Local\Temp\rust_mozprofile.T8SbdeBSKcoT
+1557473792116	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1557473792237	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63560
+1557473793861	Marionette	INFO	Listening on port 63560
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://test.sso.tonelink.com/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1557473861008	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1557473905984	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error

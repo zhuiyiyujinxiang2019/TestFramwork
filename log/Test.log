@@ -1,0 +1,696 @@
+Fri, 10 May 2019 15:34:25 TestTonelink.py[line:49] INFO -----执行测试用例'雇主登录'---------
+Fri, 10 May 2019 15:34:25 TestTonelink.py[line:51] INFO *********调用数据驱动************
+Fri, 10 May 2019 15:34:25 LoginTl.py[line:35] INFO 开始登录用户" qiangben "
+Fri, 10 May 2019 15:34:37 LoginTl.py[line:101] INFO 执行步骤'打开浏览器'成功
+Fri, 10 May 2019 15:34:48 LoginTl.py[line:101] INFO 执行步骤'访问被测网址：
+http://test.www.tonelink.com/'成功
+Fri, 10 May 2019 15:34:48 LoginTl.py[line:101] INFO 执行步骤'最大户窗口'成功
+Fri, 10 May 2019 15:34:51 LoginTl.py[line:101] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:34:52 LoginTl.py[line:101] INFO 执行步骤'判断【登录】是否在页面上可见'成功
+Fri, 10 May 2019 15:34:52 LoginTl.py[line:101] INFO 执行步骤'点击“登录”链接'成功
+Fri, 10 May 2019 15:34:56 LoginTl.py[line:101] INFO 执行步骤'等待登录页面加载完成'成功
+Fri, 10 May 2019 15:34:57 LoginTl.py[line:101] INFO 执行步骤'刷新页面'成功
+Fri, 10 May 2019 15:34:59 LoginTl.py[line:101] INFO 执行步骤'再次等待'成功
+Fri, 10 May 2019 15:35:00 LoginTl.py[line:101] INFO 执行步骤'清空用户名输入框'成功
+Fri, 10 May 2019 15:35:00 LoginTl.py[line:101] INFO 执行步骤'输入登录用户名'成功
+Fri, 10 May 2019 15:35:02 LoginTl.py[line:101] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:35:03 LoginTl.py[line:101] INFO 执行步骤'清空密码输入框'成功
+Fri, 10 May 2019 15:35:03 LoginTl.py[line:101] INFO 执行步骤'输入登录密码'成功
+Fri, 10 May 2019 15:35:04 LoginTl.py[line:101] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:35:05 LoginTl.py[line:101] INFO 执行步骤'单击登录按钮'成功
+Fri, 10 May 2019 15:35:08 LoginTl.py[line:101] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:35:08 LoginTl.py[line:101] INFO 执行步骤'断言登录成功后的页面是否包含【订单中心】关键内容'成功
+Fri, 10 May 2019 15:35:11 LoginTl.py[line:101] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:35:12 TestTonelink.py[line:70] INFO 用例 雇主登录 执行成功啦啦啦
+Fri, 10 May 2019 15:35:12 TestTonelink.py[line:49] INFO -----执行测试用例'雇主发需求'---------
+Fri, 10 May 2019 15:35:12 TestTonelink.py[line:51] INFO *********调用数据驱动************
+Fri, 10 May 2019 15:35:12 addTask.py[line:29] INFO 开始执行新增项目
+Fri, 10 May 2019 15:35:12 addTask.py[line:109] INFO 执行步骤'判断【免费发布需求】是否在页面上可见'成功
+Fri, 10 May 2019 15:35:13 addTask.py[line:109] INFO 执行步骤'单击【免费发布需求】按钮'成功
+Fri, 10 May 2019 15:35:19 addTask.py[line:109] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:35:19 addTask.py[line:109] INFO 执行步骤'跳转到新页面'成功
+Fri, 10 May 2019 15:35:19 addTask.py[line:109] INFO 执行步骤'断言页面标题是否包含【发布新项目-通力众包平台】关键内容'成功
+Fri, 10 May 2019 15:35:20 addTask.py[line:109] INFO 执行步骤'点击【一级分类】选择框'成功
+Fri, 10 May 2019 15:35:21 addTask.py[line:109] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:35:21 addTask.py[line:109] INFO 执行步骤'选择点击【一级分类】'成功
+Fri, 10 May 2019 15:35:23 addTask.py[line:109] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:35:23 addTask.py[line:109] INFO 执行步骤'点击【二级分类】选择框'成功
+Fri, 10 May 2019 15:35:24 addTask.py[line:109] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:35:25 addTask.py[line:109] INFO 执行步骤'选择点击【二级分类】'成功
+Fri, 10 May 2019 15:35:26 addTask.py[line:109] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:35:26 addTask.py[line:109] INFO 执行步骤'点击【三级分类】选择框'成功
+Fri, 10 May 2019 15:35:28 addTask.py[line:109] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:35:28 addTask.py[line:109] INFO 执行步骤'选择点击【三级分类】'成功
+Fri, 10 May 2019 15:35:29 addTask.py[line:109] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:35:30 addTask.py[line:109] INFO 执行步骤'输入【项目名称】'成功
+Fri, 10 May 2019 15:35:32 addTask.py[line:109] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:35:32 addTask.py[line:109] INFO 执行步骤'输入【项目预算】'成功
+Fri, 10 May 2019 15:35:35 addTask.py[line:109] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:35:35 addTask.py[line:109] INFO 执行步骤'点击项目所在地【省】选择框'成功
+Fri, 10 May 2019 15:35:36 addTask.py[line:109] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:35:37 addTask.py[line:109] INFO 执行步骤'选择点击【省】'成功
+Fri, 10 May 2019 15:35:38 addTask.py[line:109] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:35:38 addTask.py[line:109] INFO 执行步骤'点击项目所在地【市】选择框'成功
+Fri, 10 May 2019 15:35:40 addTask.py[line:109] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:35:40 addTask.py[line:109] INFO 执行步骤'选择点击【市】'成功
+Fri, 10 May 2019 15:35:41 addTask.py[line:109] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:35:42 addTask.py[line:109] INFO 执行步骤'点击项目所在地【区】选择框'成功
+Fri, 10 May 2019 15:35:43 addTask.py[line:109] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:35:43 addTask.py[line:109] INFO 执行步骤'选择点击【区】'成功
+Fri, 10 May 2019 15:35:45 addTask.py[line:109] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:35:45 addTask.py[line:109] INFO 执行步骤'输入【项目描述】'成功
+Fri, 10 May 2019 15:35:47 addTask.py[line:109] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:35:48 addTask.py[line:109] INFO 执行步骤'点击【上传文档】'成功
+Fri, 10 May 2019 15:35:51 addTask.py[line:109] INFO 执行步骤'输入附件所在绝对路径'成功
+Fri, 10 May 2019 15:35:54 addTask.py[line:109] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:35:54 addTask.py[line:109] INFO 执行步骤'模拟键盘回车键'成功
+Fri, 10 May 2019 15:36:00 addTask.py[line:109] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:36:00 addTask.py[line:109] INFO 执行步骤'修改【竞标截止日期】js内容'成功
+Fri, 10 May 2019 15:36:00 addTask.py[line:109] INFO 执行步骤'清空【竞标截止日期】'成功
+Fri, 10 May 2019 15:36:02 addTask.py[line:109] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:36:02 addTask.py[line:109] INFO 执行步骤'输入【竞标截止日期】'成功
+Fri, 10 May 2019 15:36:02 addTask.py[line:109] INFO 执行步骤'修改【期望完成日期】js内容'成功
+Fri, 10 May 2019 15:36:03 addTask.py[line:109] INFO 执行步骤'清空【期望完成日期】'成功
+Fri, 10 May 2019 15:36:04 addTask.py[line:109] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:36:04 addTask.py[line:109] INFO 执行步骤'输入【期望完成日期】'成功
+Fri, 10 May 2019 15:36:07 addTask.py[line:109] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:36:07 addTask.py[line:109] INFO 执行步骤'点击【立即发布】按钮'成功
+Fri, 10 May 2019 15:36:13 addTask.py[line:109] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:36:13 addTask.py[line:109] INFO 执行步骤'点击【我知道了】按钮'成功
+Fri, 10 May 2019 15:36:17 addTask.py[line:109] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:36:17 addTask.py[line:109] INFO 执行步骤'获取项目编号'成功
+Fri, 10 May 2019 15:36:19 addTask.py[line:109] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:36:21 addTask.py[line:109] INFO 执行步骤'跳转至企业中心的【企业首页】'成功
+Fri, 10 May 2019 15:36:21 addTask.py[line:109] INFO 执行步骤'获取企业名称'成功
+Fri, 10 May 2019 15:36:23 addTask.py[line:109] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:36:24 addTask.py[line:109] INFO 执行步骤'返回首页'成功
+Fri, 10 May 2019 15:36:26 addTask.py[line:109] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:36:27 TestTonelink.py[line:90] INFO 用例 雇主发需求 执行成功啦啦啦
+Fri, 10 May 2019 15:36:27 taskAudit.py[line:48] INFO 开始执行审核操作
+Fri, 10 May 2019 15:36:28 TestTonelink.py[line:99] INFO 用例【审核】执行成功啦啦啦
+Fri, 10 May 2019 15:36:28 TestTonelink.py[line:49] INFO -----执行测试用例'服务商登录'---------
+Fri, 10 May 2019 15:36:28 TestTonelink.py[line:51] INFO *********调用数据驱动************
+Fri, 10 May 2019 15:36:28 LoginTl.py[line:35] INFO 开始登录用户" pp123 "
+Fri, 10 May 2019 15:36:37 LoginTl.py[line:101] INFO 执行步骤'打开浏览器'成功
+Fri, 10 May 2019 15:36:48 LoginTl.py[line:101] INFO 执行步骤'访问被测网址：
+http://test.www.tonelink.com/'成功
+Fri, 10 May 2019 15:36:48 LoginTl.py[line:101] INFO 执行步骤'最大户窗口'成功
+Fri, 10 May 2019 15:36:52 LoginTl.py[line:101] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:36:52 LoginTl.py[line:101] INFO 执行步骤'判断【登录】是否在页面上可见'成功
+Fri, 10 May 2019 15:36:53 LoginTl.py[line:101] INFO 执行步骤'点击“登录”链接'成功
+Fri, 10 May 2019 15:36:56 LoginTl.py[line:101] INFO 执行步骤'等待登录页面加载完成'成功
+Fri, 10 May 2019 15:36:58 LoginTl.py[line:101] INFO 执行步骤'刷新页面'成功
+Fri, 10 May 2019 15:37:00 LoginTl.py[line:101] INFO 执行步骤'再次等待'成功
+Fri, 10 May 2019 15:37:00 LoginTl.py[line:101] INFO 执行步骤'清空用户名输入框'成功
+Fri, 10 May 2019 15:37:01 LoginTl.py[line:101] INFO 执行步骤'输入登录用户名'成功
+Fri, 10 May 2019 15:37:03 LoginTl.py[line:101] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:37:04 LoginTl.py[line:101] INFO 执行步骤'清空密码输入框'成功
+Fri, 10 May 2019 15:37:04 LoginTl.py[line:101] INFO 执行步骤'输入登录密码'成功
+Fri, 10 May 2019 15:37:05 LoginTl.py[line:101] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:37:06 LoginTl.py[line:101] INFO 执行步骤'单击登录按钮'成功
+Fri, 10 May 2019 15:37:09 LoginTl.py[line:101] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:37:10 LoginTl.py[line:101] INFO 执行步骤'断言登录成功后的页面是否包含【订单中心】关键内容'成功
+Fri, 10 May 2019 15:37:12 LoginTl.py[line:101] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:37:18 TestTonelink.py[line:70] INFO 用例 服务商登录 执行成功啦啦啦
+Fri, 10 May 2019 15:37:18 TestTonelink.py[line:49] INFO -----执行测试用例'服务商投标'---------
+Fri, 10 May 2019 15:37:18 TestTonelink.py[line:51] INFO *********调用数据驱动************
+Fri, 10 May 2019 15:37:18 taskTender.py[line:35] INFO 开始投标项目" 201905101535130001 "
+Fri, 10 May 2019 15:37:21 taskTender.py[line:101] INFO 执行步骤'访问投标页面'成功
+Fri, 10 May 2019 15:37:24 taskTender.py[line:101] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:37:25 taskTender.py[line:101] INFO 执行步骤'输入【服务报价】'成功
+Fri, 10 May 2019 15:37:26 taskTender.py[line:101] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:37:26 taskTender.py[line:101] INFO 执行步骤'输入【服务周期】'成功
+Fri, 10 May 2019 15:37:28 taskTender.py[line:101] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:37:28 taskTender.py[line:101] INFO 执行步骤'输入【验证码】'成功
+Fri, 10 May 2019 15:37:30 taskTender.py[line:101] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:37:30 taskTender.py[line:101] INFO 执行步骤'点击【立即投标】'成功
+Fri, 10 May 2019 15:37:32 taskTender.py[line:101] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:37:37 taskTender.py[line:101] INFO 执行步骤'返回企业中心首页'成功
+Fri, 10 May 2019 15:37:39 taskTender.py[line:101] INFO 执行步骤'等待'成功
+Fri, 10 May 2019 15:37:40 TestTonelink.py[line:118] INFO 用例 服务商投标 执行成功啦啦啦
+Fri, 10 May 2019 15:37:42 TestTonelink.py[line:325] INFO 共19条用例，4 条需要被执行，成功执行4条
+Mon, 13 May 2019 10:38:15 TestAudit.py[line:34] INFO *********调用数据驱动************
+Mon, 13 May 2019 10:38:15 taskAudit.py[line:48] INFO 开始执行审核操作
+Mon, 13 May 2019 10:38:15 taskAudit.py[line:48] INFO 开始执行审核操作
+Mon, 13 May 2019 10:38:16 taskAudit.py[line:48] INFO 开始执行审核操作
+Mon, 13 May 2019 10:38:16 TestAudit.py[line:47] INFO 用例 BO审核 执行成功啦啦啦
+Mon, 13 May 2019 10:38:19 TestAudit.py[line:65] INFO 共19条用例，1 条需要被执行，成功执行1条
+Wed, 15 May 2019 17:47:45 TestTonelink.py[line:84] DEBUG 程序本身发生异常
+ Traceback (most recent call last):
+  File "D:\tonelinkTestFrame\apiTest\testScript\TestTonelink.py", line 14, in testTonelinkAPI
+    caseSheet = excelObj.getSheetByName("测试用例")
+  File "D:\tonelinkTestFrame\apiTest\util\ParseExcel.py", line 30, in getSheetByName
+    raise e
+  File "D:\tonelinkTestFrame\apiTest\util\ParseExcel.py", line 27, in getSheetByName
+    sheet = self.workbook.get_sheet_by_name(sheetName)
+  File "D:\Python36\lib\site-packages\openpyxl\workbook\workbook.py", line 173, in get_sheet_by_name
+    return self[name]
+  File "D:\Python36\lib\site-packages\openpyxl\workbook\workbook.py", line 192, in __getitem__
+    raise KeyError("Worksheet {0} does not exist.".format(key))
+KeyError: 'Worksheet 测试用例 does not exist.'
+
+Wed, 15 May 2019 17:50:03 TestTonelink.py[line:82] DEBUG 程序本身发生异常
+ Traceback (most recent call last):
+  File "D:\tonelinkTestFrame\apiTest\testScript\TestTonelink.py", line 12, in testTonelinkAPI
+    caseSheet = excelObj.getSheetByName("测试用例")
+  File "D:\tonelinkTestFrame\apiTest\util\ParseExcel.py", line 30, in getSheetByName
+    raise e
+  File "D:\tonelinkTestFrame\apiTest\util\ParseExcel.py", line 27, in getSheetByName
+    sheet = self.workbook.get_sheet_by_name(sheetName)
+  File "D:\Python36\lib\site-packages\openpyxl\workbook\workbook.py", line 173, in get_sheet_by_name
+    return self[name]
+  File "D:\Python36\lib\site-packages\openpyxl\workbook\workbook.py", line 192, in __getitem__
+    raise KeyError("Worksheet {0} does not exist.".format(key))
+KeyError: 'Worksheet 测试用例 does not exist.'
+
+Wed, 15 May 2019 17:50:56 TestTonelink.py[line:82] DEBUG 程序本身发生异常
+ Traceback (most recent call last):
+  File "D:\tonelinkTestFrame\apiTest\testScript\TestTonelink.py", line 12, in testTonelinkAPI
+    caseSheet = excelObj.getSheetByName("测试用例")
+  File "D:\tonelinkTestFrame\apiTest\util\ParseExcel.py", line 30, in getSheetByName
+    raise e
+  File "D:\tonelinkTestFrame\apiTest\util\ParseExcel.py", line 27, in getSheetByName
+    sheet = self.workbook.get_sheet_by_name(sheetName)
+  File "D:\Python36\lib\site-packages\openpyxl\workbook\workbook.py", line 173, in get_sheet_by_name
+    return self[name]
+  File "D:\Python36\lib\site-packages\openpyxl\workbook\workbook.py", line 192, in __getitem__
+    raise KeyError("Worksheet {0} does not exist.".format(key))
+KeyError: 'Worksheet 测试用例 does not exist.'
+
+Wed, 15 May 2019 17:52:19 TestTonelink.py[line:82] DEBUG 程序本身发生异常
+ Traceback (most recent call last):
+  File "D:\tonelinkTestFrame\apiTest\testScript\TestTonelink.py", line 12, in testTonelinkAPI
+    caseSheet = excelObj.getSheetByName("测试用例")
+  File "D:\tonelinkTestFrame\apiTest\util\ParseExcel.py", line 30, in getSheetByName
+    raise e
+  File "D:\tonelinkTestFrame\apiTest\util\ParseExcel.py", line 27, in getSheetByName
+    sheet = self.workbook.get_sheet_by_name(sheetName)
+  File "D:\Python36\lib\site-packages\openpyxl\workbook\workbook.py", line 173, in get_sheet_by_name
+    return self[name]
+  File "D:\Python36\lib\site-packages\openpyxl\workbook\workbook.py", line 192, in __getitem__
+    raise KeyError("Worksheet {0} does not exist.".format(key))
+KeyError: 'Worksheet 测试用例 does not exist.'
+
+Wed, 15 May 2019 17:55:16 TestTonelink.py[line:39] INFO -----执行测试用例'注册'---------
+Wed, 15 May 2019 17:55:16 TestTonelink.py[line:41] INFO *********调用数据驱动************
+Wed, 15 May 2019 17:55:16 TestTonelink.py[line:82] DEBUG 程序本身发生异常
+ Traceback (most recent call last):
+  File "D:\tonelinkTestFrame\apiTest\testScript\TestTonelink.py", line 54, in testTonelinkAPI
+    register_result = apiRegister.testRegisterApi(dataSheetObj)
+NameError: name 'dataSheetObj' is not defined
+
+Wed, 15 May 2019 17:56:19 TestTonelink.py[line:39] INFO -----执行测试用例'注册'---------
+Wed, 15 May 2019 17:56:19 TestTonelink.py[line:41] INFO *********调用数据驱动************
+Wed, 15 May 2019 17:56:19 apiRegister.py[line:48] INFO 开始执行注册操作
+Wed, 15 May 2019 17:56:19 apiRegister.py[line:48] INFO 开始执行注册操作
+Wed, 15 May 2019 17:56:19 apiRegister.py[line:48] INFO 开始执行注册操作
+Wed, 15 May 2019 17:56:19 apiRegister.py[line:48] INFO 开始执行注册操作
+Wed, 15 May 2019 17:56:19 apiRegister.py[line:48] INFO 开始执行注册操作
+Wed, 15 May 2019 17:56:19 apiRegister.py[line:48] INFO 开始执行注册操作
+Wed, 15 May 2019 17:56:19 apiRegister.py[line:48] INFO 开始执行注册操作
+Wed, 15 May 2019 17:56:20 TestTonelink.py[line:78] INFO 共4条用例，1 条需要被执行，成功执行0条
+Wed, 15 May 2019 17:58:55 TestTonelink.py[line:39] INFO -----执行测试用例'注册'---------
+Wed, 15 May 2019 17:58:55 TestTonelink.py[line:41] INFO *********调用数据驱动************
+Wed, 15 May 2019 17:58:55 apiRegister.py[line:48] INFO 开始执行注册操作
+Wed, 15 May 2019 17:58:56 TestTonelink.py[line:78] INFO 共4条用例，1 条需要被执行，成功执行0条
+Wed, 15 May 2019 18:00:58 TestTonelink.py[line:39] INFO -----执行测试用例'注册'---------
+Wed, 15 May 2019 18:00:58 TestTonelink.py[line:41] INFO *********调用数据驱动************
+Wed, 15 May 2019 18:00:58 apiRegister.py[line:48] INFO 开始执行注册操作
+Wed, 15 May 2019 18:00:59 TestTonelink.py[line:78] INFO 共4条用例，1 条需要被执行，成功执行0条
+Wed, 15 May 2019 18:02:32 TestTonelink.py[line:39] INFO -----执行测试用例'注册'---------
+Wed, 15 May 2019 18:02:32 TestTonelink.py[line:41] INFO *********调用数据驱动************
+Wed, 15 May 2019 18:02:32 apiRegister.py[line:48] INFO 开始执行注册操作
+Wed, 15 May 2019 18:02:32 TestTonelink.py[line:78] INFO 共4条用例，1 条需要被执行，成功执行0条
+Wed, 15 May 2019 18:03:20 TestTonelink.py[line:39] INFO -----执行测试用例'注册'---------
+Wed, 15 May 2019 18:03:20 TestTonelink.py[line:41] INFO *********调用数据驱动************
+Wed, 15 May 2019 18:03:20 apiRegister.py[line:48] INFO 开始执行注册操作
+Wed, 15 May 2019 18:03:20 TestTonelink.py[line:78] INFO 共4条用例，1 条需要被执行，成功执行0条
+Wed, 15 May 2019 18:06:57 TestTonelink.py[line:36] INFO -----执行测试用例'注册'---------
+Wed, 15 May 2019 18:06:57 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Wed, 15 May 2019 18:06:57 apiRegister.py[line:48] INFO 开始执行注册操作
+Wed, 15 May 2019 18:06:58 TestTonelink.py[line:71] INFO 共4条用例，1 条需要被执行，成功执行0条
+Thu, 16 May 2019 09:18:22 TestTonelink.py[line:36] INFO -----执行测试用例'注册'---------
+Thu, 16 May 2019 09:18:22 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 09:18:22 apiRegister.py[line:49] INFO 开始执行注册操作
+Thu, 16 May 2019 09:18:22 TestTonelink.py[line:71] INFO 共4条用例，1 条需要被执行，成功执行0条
+Thu, 16 May 2019 09:23:17 TestTonelink.py[line:36] INFO -----执行测试用例'注册'---------
+Thu, 16 May 2019 09:23:17 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 09:23:17 apiRegister.py[line:50] INFO 开始执行注册操作
+Thu, 16 May 2019 09:23:17 TestTonelink.py[line:71] INFO 共4条用例，1 条需要被执行，成功执行0条
+Thu, 16 May 2019 09:23:47 TestTonelink.py[line:36] INFO -----执行测试用例'注册'---------
+Thu, 16 May 2019 09:23:47 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 09:23:47 apiRegister.py[line:50] INFO 开始执行注册操作
+Thu, 16 May 2019 09:23:49 TestTonelink.py[line:52] INFO 用例 注册 执行成功啦啦啦
+Thu, 16 May 2019 09:23:49 TestTonelink.py[line:71] INFO 共4条用例，1 条需要被执行，成功执行1条
+Thu, 16 May 2019 09:25:49 TestTonelink.py[line:36] INFO -----执行测试用例'注册'---------
+Thu, 16 May 2019 09:25:49 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 09:25:49 apiRegister.py[line:50] INFO 开始执行注册操作
+Thu, 16 May 2019 09:25:50 TestTonelink.py[line:71] INFO 共4条用例，1 条需要被执行，成功执行0条
+Thu, 16 May 2019 09:29:53 TestTonelink.py[line:36] INFO -----执行测试用例'注册'---------
+Thu, 16 May 2019 09:29:53 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 09:29:53 apiRegister.py[line:50] INFO 开始执行注册操作
+Thu, 16 May 2019 09:29:54 TestTonelink.py[line:52] INFO 用例 注册 执行成功啦啦啦
+Thu, 16 May 2019 09:29:54 TestTonelink.py[line:71] INFO 共4条用例，1 条需要被执行，成功执行1条
+Thu, 16 May 2019 09:46:46 TestTonelink.py[line:36] INFO -----执行测试用例'注册'---------
+Thu, 16 May 2019 09:46:46 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 09:46:46 apiRegister.py[line:50] INFO 开始执行注册操作
+Thu, 16 May 2019 09:46:47 TestTonelink.py[line:71] INFO 共4条用例，1 条需要被执行，成功执行0条
+Thu, 16 May 2019 09:59:09 TestTonelink.py[line:36] INFO -----执行测试用例'注册'---------
+Thu, 16 May 2019 09:59:09 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 09:59:09 apiRegister.py[line:51] INFO 开始执行注册操作
+Thu, 16 May 2019 09:59:10 TestTonelink.py[line:52] INFO 用例 注册 执行成功啦啦啦
+Thu, 16 May 2019 09:59:10 TestTonelink.py[line:71] INFO 共4条用例，1 条需要被执行，成功执行1条
+Thu, 16 May 2019 10:00:44 TestTonelink.py[line:36] INFO -----执行测试用例'注册'---------
+Thu, 16 May 2019 10:00:44 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 10:00:44 apiRegister.py[line:51] INFO 开始执行注册操作
+Thu, 16 May 2019 10:00:45 TestTonelink.py[line:52] INFO 用例 注册 执行成功啦啦啦
+Thu, 16 May 2019 10:00:45 TestTonelink.py[line:71] INFO 共4条用例，1 条需要被执行，成功执行1条
+Thu, 16 May 2019 10:03:00 TestTonelink.py[line:36] INFO -----执行测试用例'注册'---------
+Thu, 16 May 2019 10:03:00 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 10:03:00 apiRegister.py[line:51] INFO 开始执行注册操作
+Thu, 16 May 2019 10:03:01 TestTonelink.py[line:52] INFO 用例 注册 执行成功啦啦啦
+Thu, 16 May 2019 10:03:01 TestTonelink.py[line:71] INFO 共4条用例，1 条需要被执行，成功执行1条
+Thu, 16 May 2019 10:05:29 TestTonelink.py[line:36] INFO -----执行测试用例'注册'---------
+Thu, 16 May 2019 10:05:29 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 10:05:29 apiRegister.py[line:51] INFO 开始执行注册操作
+Thu, 16 May 2019 10:05:29 TestTonelink.py[line:71] INFO 共4条用例，1 条需要被执行，成功执行0条
+Thu, 16 May 2019 10:07:33 TestTonelink.py[line:36] INFO -----执行测试用例'注册'---------
+Thu, 16 May 2019 10:07:33 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 10:07:33 apiRegister.py[line:51] INFO 开始执行注册操作
+Thu, 16 May 2019 10:07:34 TestTonelink.py[line:71] INFO 共4条用例，1 条需要被执行，成功执行0条
+Thu, 16 May 2019 10:08:51 TestTonelink.py[line:36] INFO -----执行测试用例'注册'---------
+Thu, 16 May 2019 10:08:51 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 10:08:51 apiRegister.py[line:51] INFO 开始执行注册操作
+Thu, 16 May 2019 10:08:52 TestTonelink.py[line:71] INFO 共4条用例，1 条需要被执行，成功执行0条
+Thu, 16 May 2019 10:35:06 TestTonelink.py[line:36] INFO -----执行测试用例'注册'---------
+Thu, 16 May 2019 10:35:06 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 10:35:06 apiRegister.py[line:58] INFO 开始执行注册操作
+Thu, 16 May 2019 10:35:07 TestTonelink.py[line:71] INFO 共4条用例，1 条需要被执行，成功执行0条
+Thu, 16 May 2019 10:36:45 TestTonelink.py[line:36] INFO -----执行测试用例'注册'---------
+Thu, 16 May 2019 10:36:45 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 10:36:45 apiRegister.py[line:58] INFO 开始执行注册操作
+Thu, 16 May 2019 10:36:46 TestTonelink.py[line:71] INFO 共4条用例，1 条需要被执行，成功执行0条
+Thu, 16 May 2019 10:37:41 TestTonelink.py[line:36] INFO -----执行测试用例'注册'---------
+Thu, 16 May 2019 10:37:41 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 10:37:41 apiRegister.py[line:58] INFO 开始执行注册操作
+Thu, 16 May 2019 10:37:42 TestTonelink.py[line:71] INFO 共4条用例，1 条需要被执行，成功执行0条
+Thu, 16 May 2019 10:38:46 TestTonelink.py[line:36] INFO -----执行测试用例'注册'---------
+Thu, 16 May 2019 10:38:46 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 10:38:46 apiRegister.py[line:58] INFO 开始执行注册操作
+Thu, 16 May 2019 10:38:47 TestTonelink.py[line:71] INFO 共4条用例，1 条需要被执行，成功执行0条
+Thu, 16 May 2019 10:39:51 TestTonelink.py[line:36] INFO -----执行测试用例'注册'---------
+Thu, 16 May 2019 10:39:51 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 10:39:51 apiRegister.py[line:58] INFO 开始执行注册操作
+Thu, 16 May 2019 10:39:52 TestTonelink.py[line:71] INFO 共4条用例，1 条需要被执行，成功执行0条
+Thu, 16 May 2019 10:41:33 TestTonelink.py[line:36] INFO -----执行测试用例'注册'---------
+Thu, 16 May 2019 10:41:33 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 10:41:33 apiRegister.py[line:58] INFO 开始执行注册操作
+Thu, 16 May 2019 10:41:34 TestTonelink.py[line:71] INFO 共4条用例，1 条需要被执行，成功执行0条
+Thu, 16 May 2019 10:44:14 TestTonelink.py[line:36] INFO -----执行测试用例'注册'---------
+Thu, 16 May 2019 10:44:14 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 10:44:14 apiRegister.py[line:58] INFO 开始执行注册操作
+Thu, 16 May 2019 10:44:15 TestTonelink.py[line:71] INFO 共4条用例，1 条需要被执行，成功执行0条
+Thu, 16 May 2019 10:47:44 TestTonelink.py[line:36] INFO -----执行测试用例'注册'---------
+Thu, 16 May 2019 10:47:44 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 10:47:44 apiRegister.py[line:59] INFO 开始执行注册操作
+Thu, 16 May 2019 10:47:45 TestTonelink.py[line:52] INFO 用例 注册 执行成功啦啦啦
+Thu, 16 May 2019 10:47:45 TestTonelink.py[line:71] INFO 共4条用例，1 条需要被执行，成功执行1条
+Thu, 16 May 2019 10:50:26 TestTonelink.py[line:36] INFO -----执行测试用例'注册'---------
+Thu, 16 May 2019 10:50:26 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 10:50:26 apiRegister.py[line:60] INFO 开始执行注册操作
+Thu, 16 May 2019 10:50:27 TestTonelink.py[line:52] INFO 用例 注册 执行成功啦啦啦
+Thu, 16 May 2019 10:50:27 TestTonelink.py[line:71] INFO 共4条用例，1 条需要被执行，成功执行1条
+Thu, 16 May 2019 10:52:26 TestTonelink.py[line:36] INFO -----执行测试用例'注册'---------
+Thu, 16 May 2019 10:52:26 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 10:52:26 apiRegister.py[line:60] INFO 开始执行注册操作
+Thu, 16 May 2019 10:52:26 TestTonelink.py[line:52] INFO 用例 注册 执行成功啦啦啦
+Thu, 16 May 2019 10:52:26 TestTonelink.py[line:71] INFO 共4条用例，1 条需要被执行，成功执行1条
+Thu, 16 May 2019 10:54:37 TestTonelink.py[line:36] INFO -----执行测试用例'注册'---------
+Thu, 16 May 2019 10:54:37 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 10:54:37 apiRegister.py[line:60] INFO 开始执行注册操作
+Thu, 16 May 2019 10:54:38 apiRegister.py[line:60] INFO 开始执行注册操作
+Thu, 16 May 2019 10:54:38 apiRegister.py[line:60] INFO 开始执行注册操作
+Thu, 16 May 2019 10:54:38 apiRegister.py[line:60] INFO 开始执行注册操作
+Thu, 16 May 2019 10:54:38 apiRegister.py[line:60] INFO 开始执行注册操作
+Thu, 16 May 2019 10:54:39 apiRegister.py[line:60] INFO 开始执行注册操作
+Thu, 16 May 2019 10:54:39 TestTonelink.py[line:52] INFO 用例 注册 执行成功啦啦啦
+Thu, 16 May 2019 10:54:39 TestTonelink.py[line:71] INFO 共4条用例，1 条需要被执行，成功执行1条
+Thu, 16 May 2019 10:55:54 TestTonelink.py[line:36] INFO -----执行测试用例'注册'---------
+Thu, 16 May 2019 10:55:54 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 10:55:54 apiRegister.py[line:60] INFO 开始执行注册操作
+Thu, 16 May 2019 10:55:55 TestTonelink.py[line:52] INFO 用例 注册 执行成功啦啦啦
+Thu, 16 May 2019 10:55:55 TestTonelink.py[line:71] INFO 共4条用例，1 条需要被执行，成功执行1条
+Thu, 16 May 2019 11:10:28 TestTonelink.py[line:36] INFO -----执行测试用例'注册'---------
+Thu, 16 May 2019 11:10:28 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 11:10:28 apiRegister.py[line:60] INFO 开始执行注册操作
+Thu, 16 May 2019 11:10:29 apiRegister.py[line:60] INFO 开始执行注册操作
+Thu, 16 May 2019 11:10:29 apiRegister.py[line:60] INFO 开始执行注册操作
+Thu, 16 May 2019 11:10:29 apiRegister.py[line:60] INFO 开始执行注册操作
+Thu, 16 May 2019 11:10:30 apiRegister.py[line:60] INFO 开始执行注册操作
+Thu, 16 May 2019 11:10:30 apiRegister.py[line:60] INFO 开始执行注册操作
+Thu, 16 May 2019 11:10:30 TestTonelink.py[line:52] INFO 用例 注册 执行成功啦啦啦
+Thu, 16 May 2019 11:10:30 TestTonelink.py[line:71] INFO 共4条用例，1 条需要被执行，成功执行1条
+Thu, 16 May 2019 11:11:34 TestTonelink.py[line:36] INFO -----执行测试用例'注册'---------
+Thu, 16 May 2019 11:11:34 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 11:11:35 apiRegister.py[line:60] INFO 开始执行注册操作
+Thu, 16 May 2019 11:11:35 TestTonelink.py[line:71] INFO 共4条用例，1 条需要被执行，成功执行0条
+Thu, 16 May 2019 11:15:59 TestTonelink.py[line:36] INFO -----执行测试用例'注册'---------
+Thu, 16 May 2019 11:15:59 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 11:15:59 apiRegister.py[line:60] INFO 开始执行注册操作
+Thu, 16 May 2019 11:16:00 TestTonelink.py[line:71] INFO 共4条用例，1 条需要被执行，成功执行0条
+Thu, 16 May 2019 11:17:17 TestTonelink.py[line:36] INFO -----执行测试用例'注册'---------
+Thu, 16 May 2019 11:17:17 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 11:17:17 apiRegister.py[line:60] INFO 开始执行注册操作
+Thu, 16 May 2019 11:17:18 apiRegister.py[line:60] INFO 开始执行注册操作
+Thu, 16 May 2019 11:17:18 apiRegister.py[line:60] INFO 开始执行注册操作
+Thu, 16 May 2019 11:17:18 apiRegister.py[line:60] INFO 开始执行注册操作
+Thu, 16 May 2019 11:17:19 apiRegister.py[line:60] INFO 开始执行注册操作
+Thu, 16 May 2019 11:17:19 apiRegister.py[line:60] INFO 开始执行注册操作
+Thu, 16 May 2019 11:17:19 TestTonelink.py[line:52] INFO 用例 注册 执行成功啦啦啦
+Thu, 16 May 2019 11:17:19 TestTonelink.py[line:71] INFO 共4条用例，1 条需要被执行，成功执行1条
+Thu, 16 May 2019 11:38:46 TestTonelink.py[line:36] INFO -----执行测试用例'登录&获取用户信息'---------
+Thu, 16 May 2019 11:38:46 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 11:38:46 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:38:46 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:38:46 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:38:46 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:38:46 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:38:47 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:38:47 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:38:47 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:38:47 TestTonelink.py[line:88] INFO 共4条用例，1 条需要被执行，成功执行0条
+Thu, 16 May 2019 11:39:20 TestTonelink.py[line:36] INFO -----执行测试用例'登录&获取用户信息'---------
+Thu, 16 May 2019 11:39:20 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 11:39:20 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:39:21 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:39:21 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:39:21 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:39:21 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:39:21 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:39:21 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:39:21 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:39:22 TestTonelink.py[line:88] INFO 共4条用例，1 条需要被执行，成功执行0条
+Thu, 16 May 2019 11:41:09 TestTonelink.py[line:36] INFO -----执行测试用例'登录&获取用户信息'---------
+Thu, 16 May 2019 11:41:09 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 11:41:09 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:41:10 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:41:10 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:41:10 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:41:10 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:41:11 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:41:11 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:41:11 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:41:12 TestTonelink.py[line:88] INFO 共4条用例，1 条需要被执行，成功执行0条
+Thu, 16 May 2019 11:46:37 TestTonelink.py[line:36] INFO -----执行测试用例'登录&获取用户信息'---------
+Thu, 16 May 2019 11:46:37 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 11:46:37 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:46:38 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:46:38 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:46:38 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:46:38 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:46:38 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:46:39 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:46:39 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:46:39 TestTonelink.py[line:88] INFO 共4条用例，1 条需要被执行，成功执行0条
+Thu, 16 May 2019 11:48:17 TestTonelink.py[line:36] INFO -----执行测试用例'登录&获取用户信息'---------
+Thu, 16 May 2019 11:48:17 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 11:48:17 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:48:17 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:48:18 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:48:18 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:48:18 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:48:18 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:48:18 apiLogin.py[line:39] INFO 开始执行注册操作
+Thu, 16 May 2019 11:48:18 TestTonelink.py[line:69] INFO 用例 登录&获取用户信息 执行完成啦啦啦
+Thu, 16 May 2019 11:48:19 TestTonelink.py[line:88] INFO 共4条用例，1 条需要被执行，成功执行1条
+Thu, 16 May 2019 13:33:45 TestTonelink.py[line:88] INFO 共4条用例，0 条需要被执行，成功执行0条
+Thu, 16 May 2019 13:35:25 TestTonelink.py[line:36] INFO -----执行测试用例'登录&获取用户信息'---------
+Thu, 16 May 2019 13:35:25 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 13:35:25 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 13:35:26 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 13:35:27 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 13:35:27 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 13:35:27 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 13:35:28 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 13:35:28 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 13:35:28 TestTonelink.py[line:88] INFO 共4条用例，1 条需要被执行，成功执行0条
+Thu, 16 May 2019 14:03:13 TestTonelink.py[line:36] INFO -----执行测试用例'登录&获取用户信息'---------
+Thu, 16 May 2019 14:03:13 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 14:03:13 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:03:14 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:03:14 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:03:14 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:03:15 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:03:15 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:03:15 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:03:15 TestTonelink.py[line:88] INFO 共4条用例，1 条需要被执行，成功执行0条
+Thu, 16 May 2019 14:10:55 TestTonelink.py[line:36] INFO -----执行测试用例'登录&获取用户信息'---------
+Thu, 16 May 2019 14:10:55 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 14:10:55 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:10:55 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:10:55 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:10:56 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:10:56 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:10:56 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:10:56 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:10:56 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:10:56 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:10:57 TestTonelink.py[line:88] INFO 共4条用例，1 条需要被执行，成功执行0条
+Thu, 16 May 2019 14:16:24 TestTonelink.py[line:36] INFO -----执行测试用例'登录&获取用户信息'---------
+Thu, 16 May 2019 14:16:24 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 14:16:24 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:16:24 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:16:25 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:16:25 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:16:25 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:16:25 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:16:25 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:16:25 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:16:25 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:16:26 TestTonelink.py[line:88] INFO 共4条用例，1 条需要被执行，成功执行0条
+Thu, 16 May 2019 14:17:38 TestTonelink.py[line:36] INFO -----执行测试用例'登录&获取用户信息'---------
+Thu, 16 May 2019 14:17:38 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 14:17:38 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:17:39 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:17:39 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:17:39 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:17:39 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:17:40 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:17:40 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:17:40 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:17:40 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:17:40 TestTonelink.py[line:88] INFO 共4条用例，1 条需要被执行，成功执行0条
+Thu, 16 May 2019 14:19:16 TestTonelink.py[line:36] INFO -----执行测试用例'登录&获取用户信息'---------
+Thu, 16 May 2019 14:19:16 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 14:19:16 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:19:17 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:19:17 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:19:17 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:19:17 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:19:17 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:19:17 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:19:18 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:19:18 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:19:18 TestTonelink.py[line:88] INFO 共4条用例，1 条需要被执行，成功执行0条
+Thu, 16 May 2019 14:20:00 TestTonelink.py[line:36] INFO -----执行测试用例'登录&获取用户信息'---------
+Thu, 16 May 2019 14:20:00 TestTonelink.py[line:38] INFO *********调用数据驱动************
+Thu, 16 May 2019 14:20:00 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:20:01 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:20:01 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:20:01 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:20:01 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:20:01 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:20:01 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:20:01 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:20:02 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:20:02 TestTonelink.py[line:69] INFO 用例 登录&获取用户信息 执行完成啦啦啦
+Thu, 16 May 2019 14:20:02 TestTonelink.py[line:88] INFO 共4条用例，1 条需要被执行，成功执行1条
+Thu, 16 May 2019 14:45:38 TestTonelink.py[line:37] INFO -----执行测试用例'登录&获取用户信息'---------
+Thu, 16 May 2019 14:45:38 TestTonelink.py[line:39] INFO *********调用数据驱动************
+Thu, 16 May 2019 14:45:38 apiLogin.py[line:38] INFO 开始执行注册操作
+Thu, 16 May 2019 14:45:40 TestTonelink.py[line:70] INFO 用例 登录&获取用户信息 执行完成啦啦啦
+Thu, 16 May 2019 14:45:40 TestTonelink.py[line:37] INFO -----执行测试用例'注册'---------
+Thu, 16 May 2019 14:45:40 TestTonelink.py[line:39] INFO *********调用数据驱动************
+Thu, 16 May 2019 14:45:40 apiRegister.py[line:61] INFO 开始执行注册操作
+Thu, 16 May 2019 14:45:40 apiRegister.py[line:61] INFO 开始执行注册操作
+Thu, 16 May 2019 14:45:40 apiRegister.py[line:61] INFO 开始执行注册操作
+Thu, 16 May 2019 14:45:40 apiRegister.py[line:61] INFO 开始执行注册操作
+Thu, 16 May 2019 14:45:40 apiRegister.py[line:61] INFO 开始执行注册操作
+Thu, 16 May 2019 14:45:41 apiRegister.py[line:61] INFO 开始执行注册操作
+Thu, 16 May 2019 14:45:41 TestTonelink.py[line:106] INFO 共4条用例，2 条需要被执行，成功执行1条
+Thu, 16 May 2019 14:51:17 TestTonelink.py[line:37] INFO -----执行测试用例'登录&获取用户信息'---------
+Thu, 16 May 2019 14:51:17 TestTonelink.py[line:39] INFO *********调用数据驱动************
+Thu, 16 May 2019 14:51:17 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 14:51:18 TestTonelink.py[line:70] INFO 用例 登录&获取用户信息 执行完成啦啦啦
+Thu, 16 May 2019 14:51:18 TestTonelink.py[line:37] INFO -----执行测试用例'忘记密码'---------
+Thu, 16 May 2019 14:51:18 TestTonelink.py[line:39] INFO *********调用数据驱动************
+Thu, 16 May 2019 14:51:18 apiResetPw.py[line:38] INFO 开始执行【忘记密码API】用例测试
+Thu, 16 May 2019 14:51:19 TestTonelink.py[line:87] INFO 用例 忘记密码 执行完成啦啦啦
+Thu, 16 May 2019 14:51:19 TestTonelink.py[line:106] INFO 共4条用例，2 条需要被执行，成功执行2条
+Thu, 16 May 2019 15:04:19 TestTonelink.py[line:37] INFO -----执行测试用例'登录&获取用户信息'---------
+Thu, 16 May 2019 15:04:19 TestTonelink.py[line:39] INFO *********调用数据驱动************
+Thu, 16 May 2019 15:04:19 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 15:04:21 TestTonelink.py[line:37] INFO -----执行测试用例'忘记密码'---------
+Thu, 16 May 2019 15:04:21 TestTonelink.py[line:39] INFO *********调用数据驱动************
+Thu, 16 May 2019 15:04:21 apiResetPw.py[line:38] INFO 开始执行【忘记密码API】用例测试
+Thu, 16 May 2019 15:04:21 apiResetPw.py[line:38] INFO 开始执行【忘记密码API】用例测试
+Thu, 16 May 2019 15:04:21 apiResetPw.py[line:38] INFO 开始执行【忘记密码API】用例测试
+Thu, 16 May 2019 15:04:21 apiResetPw.py[line:38] INFO 开始执行【忘记密码API】用例测试
+Thu, 16 May 2019 15:04:21 apiResetPw.py[line:38] INFO 开始执行【忘记密码API】用例测试
+Thu, 16 May 2019 15:04:21 apiResetPw.py[line:38] INFO 开始执行【忘记密码API】用例测试
+Thu, 16 May 2019 15:04:22 TestTonelink.py[line:106] INFO 共4条用例，2 条需要被执行，成功执行0条
+Thu, 16 May 2019 15:08:04 TestTonelink.py[line:37] INFO -----执行测试用例'登录&获取用户信息'---------
+Thu, 16 May 2019 15:08:04 TestTonelink.py[line:39] INFO *********调用数据驱动************
+Thu, 16 May 2019 15:08:04 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 15:08:05 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 15:08:05 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 15:08:06 TestTonelink.py[line:70] INFO 用例 登录&获取用户信息 执行完成啦啦啦
+Thu, 16 May 2019 15:08:06 TestTonelink.py[line:37] INFO -----执行测试用例'忘记密码'---------
+Thu, 16 May 2019 15:08:06 TestTonelink.py[line:39] INFO *********调用数据驱动************
+Thu, 16 May 2019 15:08:06 apiResetPw.py[line:38] INFO 开始执行【忘记密码API】测试用例
+Thu, 16 May 2019 15:08:06 apiResetPw.py[line:38] INFO 开始执行【忘记密码API】测试用例
+Thu, 16 May 2019 15:08:07 apiResetPw.py[line:38] INFO 开始执行【忘记密码API】测试用例
+Thu, 16 May 2019 15:08:07 apiResetPw.py[line:38] INFO 开始执行【忘记密码API】测试用例
+Thu, 16 May 2019 15:08:07 apiResetPw.py[line:38] INFO 开始执行【忘记密码API】测试用例
+Thu, 16 May 2019 15:08:07 apiResetPw.py[line:38] INFO 开始执行【忘记密码API】测试用例
+Thu, 16 May 2019 15:08:07 TestTonelink.py[line:106] INFO 共4条用例，2 条需要被执行，成功执行1条
+Thu, 16 May 2019 15:14:15 TestTonelink.py[line:37] INFO -----执行测试用例'登录&获取用户信息'---------
+Thu, 16 May 2019 15:14:15 TestTonelink.py[line:39] INFO *********调用数据驱动************
+Thu, 16 May 2019 15:14:15 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 15:14:16 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 15:14:16 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 15:14:17 TestTonelink.py[line:70] INFO 用例 登录&获取用户信息 执行完成啦啦啦
+Thu, 16 May 2019 15:14:17 TestTonelink.py[line:37] INFO -----执行测试用例'忘记密码'---------
+Thu, 16 May 2019 15:14:17 TestTonelink.py[line:39] INFO *********调用数据驱动************
+Thu, 16 May 2019 15:14:17 apiResetPw.py[line:38] INFO 开始执行【忘记密码API】测试用例
+Thu, 16 May 2019 15:14:17 apiResetPw.py[line:38] INFO 开始执行【忘记密码API】测试用例
+Thu, 16 May 2019 15:14:17 apiResetPw.py[line:38] INFO 开始执行【忘记密码API】测试用例
+Thu, 16 May 2019 15:14:17 apiResetPw.py[line:38] INFO 开始执行【忘记密码API】测试用例
+Thu, 16 May 2019 15:14:18 apiResetPw.py[line:38] INFO 开始执行【忘记密码API】测试用例
+Thu, 16 May 2019 15:14:18 apiResetPw.py[line:38] INFO 开始执行【忘记密码API】测试用例
+Thu, 16 May 2019 15:14:18 TestTonelink.py[line:106] INFO 共4条用例，2 条需要被执行，成功执行1条
+Thu, 16 May 2019 15:25:01 TestTonelink.py[line:38] INFO -----执行测试用例'登录&获取用户信息'---------
+Thu, 16 May 2019 15:25:01 TestTonelink.py[line:40] INFO *********调用数据驱动************
+Thu, 16 May 2019 15:25:01 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 15:25:01 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 15:25:02 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 15:25:02 TestTonelink.py[line:71] INFO 用例 登录&获取用户信息 执行完成啦啦啦
+Thu, 16 May 2019 15:25:02 TestTonelink.py[line:38] INFO -----执行测试用例'获取经纪人信息（新）'---------
+Thu, 16 May 2019 15:25:02 TestTonelink.py[line:40] INFO *********调用数据驱动************
+Thu, 16 May 2019 15:25:02 apiResetPw.py[line:38] INFO 开始执行【忘记密码API】测试用例
+Thu, 16 May 2019 15:25:03 apiResetPw.py[line:38] INFO 开始执行【忘记密码API】测试用例
+Thu, 16 May 2019 15:25:03 apiResetPw.py[line:38] INFO 开始执行【忘记密码API】测试用例
+Thu, 16 May 2019 15:25:03 TestTonelink.py[line:124] INFO 共4条用例，2 条需要被执行，成功执行1条
+Thu, 16 May 2019 15:26:23 TestTonelink.py[line:38] INFO -----执行测试用例'登录&获取用户信息'---------
+Thu, 16 May 2019 15:26:23 TestTonelink.py[line:40] INFO *********调用数据驱动************
+Thu, 16 May 2019 15:26:23 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 15:26:23 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 15:26:23 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 15:26:24 TestTonelink.py[line:71] INFO 用例 登录&获取用户信息 执行完成啦啦啦
+Thu, 16 May 2019 15:26:24 TestTonelink.py[line:38] INFO -----执行测试用例'获取经纪人信息（新）'---------
+Thu, 16 May 2019 15:26:24 TestTonelink.py[line:40] INFO *********调用数据驱动************
+Thu, 16 May 2019 15:26:24 TestTonelink.py[line:127] DEBUG 程序本身发生异常
+ Traceback (most recent call last):
+  File "D:\tonelinkTestFrame\apiTest\testScript\TestTonelink.py", line 103, in testTonelinkAPI
+    result = apiGetBrokerInfo.getBrokerInfo_api(dataSheetObj)
+TypeError: getBrokerInfo_api() missing 1 required positional argument: 'payload'
+
+Thu, 16 May 2019 15:36:20 TestTonelink.py[line:38] INFO -----执行测试用例'登录&获取用户信息'---------
+Thu, 16 May 2019 15:36:20 TestTonelink.py[line:40] INFO *********调用数据驱动************
+Thu, 16 May 2019 15:36:20 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 15:36:21 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 15:36:21 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 15:36:21 TestTonelink.py[line:71] INFO 用例 登录&获取用户信息 执行完成啦啦啦
+Thu, 16 May 2019 15:36:21 TestTonelink.py[line:38] INFO -----执行测试用例'获取经纪人信息'---------
+Thu, 16 May 2019 15:36:21 TestTonelink.py[line:40] INFO *********调用数据驱动************
+Thu, 16 May 2019 15:36:21 TestTonelink.py[line:127] DEBUG 程序本身发生异常
+ Traceback (most recent call last):
+  File "D:\tonelinkTestFrame\apiTest\testScript\TestTonelink.py", line 103, in testTonelinkAPI
+    result = apiGetBrokerInfo.testGetBrokerInfoapi(dataSheetObj)
+TypeError: testGetBrokerInfoapi() missing 1 required positional argument: 'payload'
+
+Thu, 16 May 2019 15:39:13 TestTonelink.py[line:38] INFO -----执行测试用例'登录&获取用户信息'---------
+Thu, 16 May 2019 15:39:13 TestTonelink.py[line:40] INFO *********调用数据驱动************
+Thu, 16 May 2019 15:39:13 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 15:39:14 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 15:39:14 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 15:39:14 TestTonelink.py[line:71] INFO 用例 登录&获取用户信息 执行完成啦啦啦
+Thu, 16 May 2019 15:39:14 TestTonelink.py[line:38] INFO -----执行测试用例'获取经纪人信息'---------
+Thu, 16 May 2019 15:39:14 TestTonelink.py[line:40] INFO *********调用数据驱动************
+Thu, 16 May 2019 15:39:14 apiGetBrokerInfo.py[line:38] INFO 开始执行【获取经纪人信息API】测试用例
+Thu, 16 May 2019 15:39:15 apiGetBrokerInfo.py[line:38] INFO 开始执行【获取经纪人信息API】测试用例
+Thu, 16 May 2019 15:39:15 apiGetBrokerInfo.py[line:38] INFO 开始执行【获取经纪人信息API】测试用例
+Thu, 16 May 2019 15:39:16 TestTonelink.py[line:124] INFO 共4条用例，2 条需要被执行，成功执行1条
+Thu, 16 May 2019 15:41:47 TestTonelink.py[line:38] INFO -----执行测试用例'登录&获取用户信息'---------
+Thu, 16 May 2019 15:41:47 TestTonelink.py[line:40] INFO *********调用数据驱动************
+Thu, 16 May 2019 15:41:47 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 15:41:48 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 15:41:48 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 15:41:48 TestTonelink.py[line:71] INFO 用例 登录&获取用户信息 执行完成啦啦啦
+Thu, 16 May 2019 15:41:48 TestTonelink.py[line:38] INFO -----执行测试用例'获取经纪人信息'---------
+Thu, 16 May 2019 15:41:48 TestTonelink.py[line:40] INFO *********调用数据驱动************
+Thu, 16 May 2019 15:41:48 apiGetBrokerInfo.py[line:38] INFO 开始执行【获取经纪人信息API】测试用例
+Thu, 16 May 2019 15:41:49 apiGetBrokerInfo.py[line:38] INFO 开始执行【获取经纪人信息API】测试用例
+Thu, 16 May 2019 15:41:49 apiGetBrokerInfo.py[line:38] INFO 开始执行【获取经纪人信息API】测试用例
+Thu, 16 May 2019 15:41:50 TestTonelink.py[line:124] INFO 共4条用例，2 条需要被执行，成功执行1条
+Thu, 16 May 2019 15:44:00 TestTonelink.py[line:38] INFO -----执行测试用例'登录&获取用户信息'---------
+Thu, 16 May 2019 15:44:00 TestTonelink.py[line:40] INFO *********调用数据驱动************
+Thu, 16 May 2019 15:44:00 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 15:44:01 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 15:44:01 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 15:44:01 TestTonelink.py[line:71] INFO 用例 登录&获取用户信息 执行完成啦啦啦
+Thu, 16 May 2019 15:44:02 TestTonelink.py[line:38] INFO -----执行测试用例'获取经纪人信息'---------
+Thu, 16 May 2019 15:44:02 TestTonelink.py[line:40] INFO *********调用数据驱动************
+Thu, 16 May 2019 15:44:02 apiGetBrokerInfo.py[line:38] INFO 开始执行【获取经纪人信息API】测试用例
+Thu, 16 May 2019 15:44:02 apiGetBrokerInfo.py[line:38] INFO 开始执行【获取经纪人信息API】测试用例
+Thu, 16 May 2019 15:44:02 apiGetBrokerInfo.py[line:38] INFO 开始执行【获取经纪人信息API】测试用例
+Thu, 16 May 2019 15:44:03 TestTonelink.py[line:124] INFO 共4条用例，2 条需要被执行，成功执行1条
+Thu, 16 May 2019 15:54:37 TestTonelink.py[line:38] INFO -----执行测试用例'登录&获取用户信息'---------
+Thu, 16 May 2019 15:54:37 TestTonelink.py[line:40] INFO *********调用数据驱动************
+Thu, 16 May 2019 15:54:37 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 15:54:38 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 15:54:38 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 15:54:39 TestTonelink.py[line:71] INFO 用例 登录&获取用户信息 执行完成啦啦啦
+Thu, 16 May 2019 15:54:39 TestTonelink.py[line:38] INFO -----执行测试用例'获取经纪人信息'---------
+Thu, 16 May 2019 15:54:39 TestTonelink.py[line:40] INFO *********调用数据驱动************
+Thu, 16 May 2019 15:54:39 apiGetBrokerInfo.py[line:38] INFO 开始执行【获取经纪人信息API】测试用例
+Thu, 16 May 2019 15:54:39 apiGetBrokerInfo.py[line:38] INFO 开始执行【获取经纪人信息API】测试用例
+Thu, 16 May 2019 15:54:39 apiGetBrokerInfo.py[line:38] INFO 开始执行【获取经纪人信息API】测试用例
+Thu, 16 May 2019 15:54:40 TestTonelink.py[line:124] INFO 共4条用例，2 条需要被执行，成功执行1条
+Thu, 16 May 2019 15:54:54 TestTonelink.py[line:38] INFO -----执行测试用例'登录&获取用户信息'---------
+Thu, 16 May 2019 15:54:54 TestTonelink.py[line:40] INFO *********调用数据驱动************
+Thu, 16 May 2019 15:54:54 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 15:54:55 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 15:54:55 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 15:54:56 TestTonelink.py[line:71] INFO 用例 登录&获取用户信息 执行完成啦啦啦
+Thu, 16 May 2019 15:54:56 TestTonelink.py[line:38] INFO -----执行测试用例'获取经纪人信息'---------
+Thu, 16 May 2019 15:54:56 TestTonelink.py[line:40] INFO *********调用数据驱动************
+Thu, 16 May 2019 15:54:56 apiGetBrokerInfo.py[line:38] INFO 开始执行【获取经纪人信息API】测试用例
+Thu, 16 May 2019 15:54:56 apiGetBrokerInfo.py[line:38] INFO 开始执行【获取经纪人信息API】测试用例
+Thu, 16 May 2019 15:54:56 apiGetBrokerInfo.py[line:38] INFO 开始执行【获取经纪人信息API】测试用例
+Thu, 16 May 2019 15:54:56 TestTonelink.py[line:124] INFO 共4条用例，2 条需要被执行，成功执行1条
+Thu, 16 May 2019 16:00:58 TestTonelink.py[line:38] INFO -----执行测试用例'登录&获取用户信息'---------
+Thu, 16 May 2019 16:00:58 TestTonelink.py[line:40] INFO *********调用数据驱动************
+Thu, 16 May 2019 16:00:58 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 16:00:59 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 16:00:59 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Thu, 16 May 2019 16:00:59 TestTonelink.py[line:71] INFO 用例 登录&获取用户信息 执行完成啦啦啦
+Thu, 16 May 2019 16:01:00 TestTonelink.py[line:38] INFO -----执行测试用例'获取经纪人信息'---------
+Thu, 16 May 2019 16:01:00 TestTonelink.py[line:40] INFO *********调用数据驱动************
+Thu, 16 May 2019 16:01:00 apiGetBrokerInfo.py[line:38] INFO 开始执行【获取经纪人信息API】测试用例
+Thu, 16 May 2019 16:01:00 apiGetBrokerInfo.py[line:38] INFO 开始执行【获取经纪人信息API】测试用例
+Thu, 16 May 2019 16:01:00 apiGetBrokerInfo.py[line:38] INFO 开始执行【获取经纪人信息API】测试用例
+Thu, 16 May 2019 16:01:00 TestTonelink.py[line:105] INFO 用例 获取经纪人信息 执行完成啦啦啦
+Thu, 16 May 2019 16:01:00 TestTonelink.py[line:124] INFO 共4条用例，2 条需要被执行，成功执行2条
+Fri, 17 May 2019 10:32:32 TestTonelink.py[line:38] INFO -----执行测试用例'登录&获取用户信息'---------
+Fri, 17 May 2019 10:32:32 TestTonelink.py[line:40] INFO *********调用数据驱动************
+Fri, 17 May 2019 10:32:32 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Fri, 17 May 2019 10:32:32 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Fri, 17 May 2019 10:32:33 apiLogin.py[line:38] INFO 开始执行【登录API】测试用例
+Fri, 17 May 2019 10:32:33 TestTonelink.py[line:71] INFO 用例 登录&获取用户信息 执行完成啦啦啦
+Fri, 17 May 2019 10:32:34 TestTonelink.py[line:38] INFO -----执行测试用例'获取经纪人信息'---------
+Fri, 17 May 2019 10:32:34 TestTonelink.py[line:40] INFO *********调用数据驱动************
+Fri, 17 May 2019 10:32:34 apiGetBrokerInfo.py[line:38] INFO 开始执行【获取经纪人信息API】测试用例
+Fri, 17 May 2019 10:32:34 apiGetBrokerInfo.py[line:38] INFO 开始执行【获取经纪人信息API】测试用例
+Fri, 17 May 2019 10:32:34 apiGetBrokerInfo.py[line:38] INFO 开始执行【获取经纪人信息API】测试用例
+Fri, 17 May 2019 10:32:34 TestTonelink.py[line:124] INFO 共4条用例，2 条需要被执行，成功执行1条
